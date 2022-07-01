@@ -1,0 +1,2537 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://unpkg.com/browse/swiper@7.4.1/swiper-bundle.css
+Subject: UNPKG - swiper
+Date: Mon, 24 Jan 2022 06:57:57 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----"
+
+
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/html
+Content-ID: <frame-1D4C0EF7DBAC900CE9E80559C7BE478D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://unpkg.com/browse/swiper@7.4.1/swiper-bundle.css
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-7f90e8a6-2366-4efe-a571-ea9b5c7fba4b@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e11a67e2-90a6-4dd6=
+-9df6-7736dff2542d@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-be81286d-eb08-400b-a2ef-1ea146fb6878@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c231304f-a5b3-45e3-a3=
+a8-7d5703e930dc@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-1bfe2ad3-d99f-4238-8b6e-bf070e5ef39d@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c722cd9f-bd4b-41e5-a6a6-=
+ea7f99426149@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-a8a646ec-71c0-41d9-b19e-6a2a5aa60f77@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-3f6be20b-52ac-4eeb-8b59-f=
+b5db534cb8c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-74c49b76-c39e-4391-82ee-cd8c6462755e@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-aba5ca98-45ae-4340-9909-4=
+c155ce0b9ae@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-026ee460-33db-4990-abbd-3b093d6a6ff1@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-9731943b-205a-49f0-ae35-2=
+6c4e3a1ef79@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-103c3591-0d2c-46ba-85a4-ae4cfd94a3a0@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-011b0b9e-886b-481d-a005-5=
+b01690953b4@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-379e967c-2760-40e7-8b2b-4afdf05628ef@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f366e113-0cdf-4acb-ad0a-0=
+6575207219f@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-11609d65-4c97-40b2-a836-f454d8640dd4@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-11dd8e0f-1584-4d66-98bb-6=
+2de433678b1@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-db7d9096-9446-4ac2-ad78-c480710ac110@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-af9574d5-04fe-4bd5-9d1b-4=
+70bf61aba7e@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-db11c9df-4f79-437b-b47d-719210a16de4@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-183c2dad-0aee-421c-a272-2=
+7425f82940c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-d92c0cef-46ce-49e5-a26e-62f4a53362e2@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5a925922-60af-478f-8a43-5=
+044bdf434a2@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-fec29a2e-4ca4-40dd-9ac4-f6b156afb9cd@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6b1fa2f5-7d6c-44ee-8f4f-8=
+3704b1d630c@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-72ddedfd-beb7-4c8e-b200-b7edd6381f2f@mhtml.blink" /><meta http-=
+equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1"><meta name=3D"de=
+scription" content=3D"The CDN for swiper"><meta name=3D"viewport" content=
+=3D"width=3Ddevice-width,initial-scale=3D1,maximum-scale=3D1"><meta name=3D=
+"timestamp" content=3D"2022-01-24T06:55:41.402Z"><link rel=3D"shortcut icon=
+" href=3D"https://unpkg.com/favicon.ico"><title>UNPKG - swiper</title></hea=
+d><body><div id=3D"root"><div class=3D"css-1c3h18e"><div class=3D"css-1cfuj=
+1t"><header class=3D"css-i51og3"><h1 class=3D"css-1y7u1xh"><a href=3D"https=
+://unpkg.com/" class=3D"css-1ydg16i">UNPKG</a></h1></header></div><div clas=
+s=3D"css-1cfuj1t"><header class=3D"css-93o42g"><h1 class=3D"css-1dlpvgi"><n=
+av><a href=3D"https://unpkg.com/browse/swiper@7.4.1/" class=3D"css-xt128v">=
+swiper</a><span class=3D"css-lllnmq">/</span><strong>swiper-bundle.css</str=
+ong></nav></h1><p class=3D"css-1nr3dab"><label>Version:<!-- --> <select nam=
+e=3D"version" class=3D"css-un3bt6"><option value=3D"2.7.0">2.7.0</option><o=
+ption value=3D"2.7.5">2.7.5</option><option value=3D"2.7.6">2.7.6</option><=
+option value=3D"3.0.0">3.0.0</option><option value=3D"3.0.1">3.0.1</option>=
+<option value=3D"3.0.2">3.0.2</option><option value=3D"3.0.3">3.0.3</option=
+><option value=3D"3.0.4">3.0.4</option><option value=3D"3.0.5">3.0.5</optio=
+n><option value=3D"3.0.6">3.0.6</option><option value=3D"3.0.7">3.0.7</opti=
+on><option value=3D"3.0.8">3.0.8</option><option value=3D"3.1.0">3.1.0</opt=
+ion><option value=3D"3.1.2">3.1.2</option><option value=3D"3.1.5">3.1.5</op=
+tion><option value=3D"3.1.7">3.1.7</option><option value=3D"3.2.0">3.2.0</o=
+ption><option value=3D"3.2.5">3.2.5</option><option value=3D"3.2.6">3.2.6</=
+option><option value=3D"3.2.7">3.2.7</option><option value=3D"3.3.0">3.3.0<=
+/option><option value=3D"3.3.1">3.3.1</option><option value=3D"3.4.0">3.4.0=
+</option><option value=3D"3.4.1">3.4.1</option><option value=3D"3.4.2">3.4.=
+2</option><option value=3D"4.0.0-beta.1">4.0.0-beta.1</option><option value=
+=3D"4.0.0-beta.2">4.0.0-beta.2</option><option value=3D"4.0.0-beta.3">4.0.0=
+-beta.3</option><option value=3D"4.0.0-beta.4">4.0.0-beta.4</option><option=
+ value=3D"4.0.0">4.0.0</option><option value=3D"4.0.1">4.0.1</option><optio=
+n value=3D"4.0.2">4.0.2</option><option value=3D"4.0.3">4.0.3</option><opti=
+on value=3D"4.0.5">4.0.5</option><option value=3D"4.0.6">4.0.6</option><opt=
+ion value=3D"4.0.7">4.0.7</option><option value=3D"4.1.0">4.1.0</option><op=
+tion value=3D"4.1.5">4.1.5</option><option value=3D"4.1.6">4.1.6</option><o=
+ption value=3D"4.2.0">4.2.0</option><option value=3D"4.2.2">4.2.2</option><=
+option value=3D"4.2.5">4.2.5</option><option value=3D"4.2.6">4.2.6</option>=
+<option value=3D"4.3.0">4.3.0</option><option value=3D"4.3.2">4.3.2</option=
+><option value=3D"4.3.3">4.3.3</option><option value=3D"4.3.5">4.3.5</optio=
+n><option value=3D"4.4.0">4.4.0</option><option value=3D"4.4.1">4.4.1</opti=
+on><option value=3D"4.4.2">4.4.2</option><option value=3D"4.4.5">4.4.5</opt=
+ion><option value=3D"4.4.6">4.4.6</option><option value=3D"4.5.0">4.5.0</op=
+tion><option value=3D"4.5.1">4.5.1</option><option value=3D"5.0.0">5.0.0</o=
+ption><option value=3D"5.0.1">5.0.1</option><option value=3D"5.0.2">5.0.2</=
+option><option value=3D"5.0.3">5.0.3</option><option value=3D"5.0.4">5.0.4<=
+/option><option value=3D"5.1.0">5.1.0</option><option value=3D"5.2.0">5.2.0=
+</option><option value=3D"5.2.1">5.2.1</option><option value=3D"5.3.0">5.3.=
+0</option><option value=3D"5.3.1">5.3.1</option><option value=3D"5.3.5">5.3=
+.5</option><option value=3D"5.3.6">5.3.6</option><option value=3D"5.3.7">5.=
+3.7</option><option value=3D"5.3.8">5.3.8</option><option value=3D"5.4.0">5=
+.4.0</option><option value=3D"5.4.1">5.4.1</option><option value=3D"5.4.2">=
+5.4.2</option><option value=3D"5.4.3">5.4.3</option><option value=3D"5.4.4"=
+>5.4.4</option><option value=3D"5.4.5">5.4.5</option><option value=3D"6.0.0=
+-alpha.1">6.0.0-alpha.1</option><option value=3D"6.0.0-alpha.2">6.0.0-alpha=
+.2</option><option value=3D"6.0.0-alpha.3">6.0.0-alpha.3</option><option va=
+lue=3D"6.0.0-alpha.4">6.0.0-alpha.4</option><option value=3D"6.0.0-alpha.5"=
+>6.0.0-alpha.5</option><option value=3D"6.0.0-alpha.6">6.0.0-alpha.6</optio=
+n><option value=3D"6.0.0-alpha.7">6.0.0-alpha.7</option><option value=3D"6.=
+0.0-alpha.8">6.0.0-alpha.8</option><option value=3D"6.0.0-alpha.9">6.0.0-al=
+pha.9</option><option value=3D"6.0.0-alpha.10">6.0.0-alpha.10</option><opti=
+on value=3D"6.0.0-alpha.11">6.0.0-alpha.11</option><option value=3D"6.0.0-a=
+lpha.12">6.0.0-alpha.12</option><option value=3D"6.0.0-alpha.15">6.0.0-alph=
+a.15</option><option value=3D"6.0.0-alpha.16">6.0.0-alpha.16</option><optio=
+n value=3D"6.0.0-alpha.17">6.0.0-alpha.17</option><option value=3D"6.0.0-al=
+pha.18">6.0.0-alpha.18</option><option value=3D"6.0.0">6.0.0</option><optio=
+n value=3D"6.0.1">6.0.1</option><option value=3D"6.0.2">6.0.2</option><opti=
+on value=3D"6.0.3">6.0.3</option><option value=3D"6.0.4">6.0.4</option><opt=
+ion value=3D"6.1.0">6.1.0</option><option value=3D"6.1.1">6.1.1</option><op=
+tion value=3D"6.1.2">6.1.2</option><option value=3D"6.1.3">6.1.3</option><o=
+ption value=3D"6.2.0">6.2.0</option><option value=3D"6.3.0">6.3.0</option><=
+option value=3D"6.3.1">6.3.1</option><option value=3D"6.3.2">6.3.2</option>=
+<option value=3D"6.3.3">6.3.3</option><option value=3D"6.3.4">6.3.4</option=
+><option value=3D"6.3.5">6.3.5</option><option value=3D"6.4.0">6.4.0</optio=
+n><option value=3D"6.4.1">6.4.1</option><option value=3D"6.4.2">6.4.2</opti=
+on><option value=3D"6.4.3">6.4.3</option><option value=3D"6.4.4">6.4.4</opt=
+ion><option value=3D"6.4.5">6.4.5</option><option value=3D"6.4.6">6.4.6</op=
+tion><option value=3D"6.4.7">6.4.7</option><option value=3D"6.4.8">6.4.8</o=
+ption><option value=3D"6.4.9">6.4.9</option><option value=3D"6.4.10">6.4.10=
+</option><option value=3D"6.4.11">6.4.11</option><option value=3D"6.4.12">6=
+.4.12</option><option value=3D"6.4.14">6.4.14</option><option value=3D"6.4.=
+15">6.4.15</option><option value=3D"6.5.0">6.5.0</option><option value=3D"6=
+.5.1">6.5.1</option><option value=3D"6.5.2">6.5.2</option><option value=3D"=
+6.5.3">6.5.3</option><option value=3D"6.5.4">6.5.4</option><option value=3D=
+"6.5.5-beta.1">6.5.5-beta.1</option><option value=3D"6.5.5">6.5.5</option><=
+option value=3D"6.5.6">6.5.6</option><option value=3D"6.5.7">6.5.7</option>=
+<option value=3D"6.5.8">6.5.8</option><option value=3D"6.5.9">6.5.9</option=
+><option value=3D"6.6.0">6.6.0</option><option value=3D"6.6.1">6.6.1</optio=
+n><option value=3D"6.6.2">6.6.2</option><option value=3D"6.7.0">6.7.0</opti=
+on><option value=3D"6.7.1">6.7.1</option><option value=3D"6.7.5">6.7.5</opt=
+ion><option value=3D"6.8.0-beta.1">6.8.0-beta.1</option><option value=3D"6.=
+8.0">6.8.0</option><option value=3D"6.8.1">6.8.1</option><option value=3D"6=
+.8.2">6.8.2</option><option value=3D"6.8.3">6.8.3</option><option value=3D"=
+6.8.4">6.8.4</option><option value=3D"7.0.0-alpha.1">7.0.0-alpha.1</option>=
+<option value=3D"7.0.0-alpha.2">7.0.0-alpha.2</option><option value=3D"7.0.=
+0-alpha.3">7.0.0-alpha.3</option><option value=3D"7.0.0-alpha.4">7.0.0-alph=
+a.4</option><option value=3D"7.0.0-alpha.5">7.0.0-alpha.5</option><option v=
+alue=3D"7.0.0-alpha.6">7.0.0-alpha.6</option><option value=3D"7.0.0-alpha.7=
+">7.0.0-alpha.7</option><option value=3D"7.0.0-alpha.8">7.0.0-alpha.8</opti=
+on><option value=3D"7.0.0-alpha.9">7.0.0-alpha.9</option><option value=3D"7=
+.0.0-alpha.10">7.0.0-alpha.10</option><option value=3D"7.0.0-alpha.11">7.0.=
+0-alpha.11</option><option value=3D"7.0.0-alpha.12">7.0.0-alpha.12</option>=
+<option value=3D"7.0.0-alpha.14">7.0.0-alpha.14</option><option value=3D"7.=
+0.0-alpha.15">7.0.0-alpha.15</option><option value=3D"7.0.0-alpha.16">7.0.0=
+-alpha.16</option><option value=3D"7.0.0-alpha.17">7.0.0-alpha.17</option><=
+option value=3D"7.0.0-alpha.18">7.0.0-alpha.18</option><option value=3D"7.0=
+.0-alpha.19">7.0.0-alpha.19</option><option value=3D"7.0.0-alpha.20">7.0.0-=
+alpha.20</option><option value=3D"7.0.0-alpha.21">7.0.0-alpha.21</option><o=
+ption value=3D"7.0.0-alpha.22">7.0.0-alpha.22</option><option value=3D"7.0.=
+0-alpha.23">7.0.0-alpha.23</option><option value=3D"7.0.0-alpha.24">7.0.0-a=
+lpha.24</option><option value=3D"7.0.0-alpha.25">7.0.0-alpha.25</option><op=
+tion value=3D"7.0.0-alpha.26">7.0.0-alpha.26</option><option value=3D"7.0.0=
+-alpha.27">7.0.0-alpha.27</option><option value=3D"7.0.0-alpha.28">7.0.0-al=
+pha.28</option><option value=3D"7.0.0-alpha.29">7.0.0-alpha.29</option><opt=
+ion value=3D"7.0.0-alpha.30">7.0.0-alpha.30</option><option value=3D"7.0.0-=
+alpha.31">7.0.0-alpha.31</option><option value=3D"7.0.0-alpha.32">7.0.0-alp=
+ha.32</option><option value=3D"7.0.0-alpha.33">7.0.0-alpha.33</option><opti=
+on value=3D"7.0.0-alpha.34">7.0.0-alpha.34</option><option value=3D"7.0.0-a=
+lpha.35">7.0.0-alpha.35</option><option value=3D"7.0.0-alpha.36">7.0.0-alph=
+a.36</option><option value=3D"7.0.0-alpha.37">7.0.0-alpha.37</option><optio=
+n value=3D"7.0.0-alpha.38">7.0.0-alpha.38</option><option value=3D"7.0.0-al=
+pha.39">7.0.0-alpha.39</option><option value=3D"7.0.0-alpha.40">7.0.0-alpha=
+.40</option><option value=3D"7.0.0">7.0.0</option><option value=3D"7.0.1">7=
+.0.1</option><option value=3D"7.0.2">7.0.2</option><option value=3D"7.0.3">=
+7.0.3</option><option value=3D"7.0.4">7.0.4</option><option value=3D"7.0.5"=
+>7.0.5</option><option value=3D"7.0.6">7.0.6</option><option value=3D"7.0.7=
+">7.0.7</option><option value=3D"7.0.8">7.0.8</option><option value=3D"7.0.=
+9">7.0.9</option><option value=3D"7.1.0">7.1.0</option><option value=3D"7.2=
+.0">7.2.0</option><option value=3D"7.3.0">7.3.0</option><option value=3D"7.=
+3.1">7.3.1</option><option value=3D"7.3.2">7.3.2</option><option value=3D"7=
+.3.3">7.3.3</option><option value=3D"7.3.4">7.3.4</option><option value=3D"=
+7.4.0">7.4.0</option><option selected=3D"" value=3D"7.4.1">7.4.1</option></=
+select></label></p></header></div><div class=3D"css-107j3ms"><div class=3D"=
+css-q3frg4"><div class=3D"css-10o5omr"><span>18.3 kB</span><span>CSS</span>=
+<span><a href=3D"https://unpkg.com/swiper@7.4.1/swiper-bundle.css" class=3D=
+"css-18x593j">View Raw</a></span></div><div class=3D"code-listing css-1i31i=
+hw"><table class=3D"css-173nir8"><tbody><tr><td id=3D"L1" class=3D"css-a4x7=
+4f"><span>1</span></td><td id=3D"LC1" class=3D"css-1dcdqdg"><code><span cla=
+ss=3D"code-comment">/**
+</span></code></td></tr><tr><td id=3D"L2" class=3D"css-a4x74f"><span>2</spa=
+n></td><td id=3D"LC2" class=3D"css-1dcdqdg"><code><span class=3D"code-comme=
+nt"> * Swiper 7.4.1
+</span></code></td></tr><tr><td id=3D"L3" class=3D"css-a4x74f"><span>3</spa=
+n></td><td id=3D"LC3" class=3D"css-1dcdqdg"><code><span class=3D"code-comme=
+nt"> * Most modern mobile touch slider and framework with hardware accelera=
+ted transitions
+</span></code></td></tr><tr><td id=3D"L4" class=3D"css-a4x74f"><span>4</spa=
+n></td><td id=3D"LC4" class=3D"css-1dcdqdg"><code><span class=3D"code-comme=
+nt"> * https://swiperjs.com
+</span></code></td></tr><tr><td id=3D"L5" class=3D"css-a4x74f"><span>5</spa=
+n></td><td id=3D"LC5" class=3D"css-1dcdqdg"><code><span class=3D"code-comme=
+nt"> *
+</span></code></td></tr><tr><td id=3D"L6" class=3D"css-a4x74f"><span>6</spa=
+n></td><td id=3D"LC6" class=3D"css-1dcdqdg"><code><span class=3D"code-comme=
+nt"> * Copyright 2014-2021 Vladimir Kharlampidi
+</span></code></td></tr><tr><td id=3D"L7" class=3D"css-a4x74f"><span>7</spa=
+n></td><td id=3D"LC7" class=3D"css-1dcdqdg"><code><span class=3D"code-comme=
+nt"> *
+</span></code></td></tr><tr><td id=3D"L8" class=3D"css-a4x74f"><span>8</spa=
+n></td><td id=3D"LC8" class=3D"css-1dcdqdg"><code><span class=3D"code-comme=
+nt"> * Released under the MIT License
+</span></code></td></tr><tr><td id=3D"L9" class=3D"css-a4x74f"><span>9</spa=
+n></td><td id=3D"LC9" class=3D"css-1dcdqdg"><code><span class=3D"code-comme=
+nt"> *
+</span></code></td></tr><tr><td id=3D"L10" class=3D"css-a4x74f"><span>10</s=
+pan></td><td id=3D"LC10" class=3D"css-1dcdqdg"><code><span class=3D"code-co=
+mment"> * Released on: December 24, 2021
+</span></code></td></tr><tr><td id=3D"L11" class=3D"css-a4x74f"><span>11</s=
+pan></td><td id=3D"LC11" class=3D"css-1dcdqdg"><code><span class=3D"code-co=
+mment"> */</span>
+</code></td></tr><tr><td id=3D"L12" class=3D"css-a4x74f"><span>12</span></t=
+d><td id=3D"LC12" class=3D"css-1dcdqdg"><code>
+</code></td></tr><tr><td id=3D"L13" class=3D"css-a4x74f"><span>13</span></t=
+d><td id=3D"LC13" class=3D"css-1dcdqdg"><code>@<span class=3D"code-keyword"=
+>font-face</span> {
+</code></td></tr><tr><td id=3D"L14" class=3D"css-a4x74f"><span>14</span></t=
+d><td id=3D"LC14" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">font-family</span>: <span class=3D"code-string">'swiper-icons'</span>;
+</code></td></tr><tr><td id=3D"L15" class=3D"css-a4x74f"><span>15</span></t=
+d><td id=3D"LC15" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">src</span>: <span class=3D"code-built_in">url</span>(<span class=3D"cod=
+e-string">'data:application/font-woff;charset=3Dutf-8;base64, d09GRgABAAAAA=
+AZgABAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAGRAAAABoAAAAci6qHkUdE=
+RUYAAAWgAAAAIwAAACQAYABXR1BPUwAABhQAAAAuAAAANuAY7+xHU1VCAAAFxAAAAFAAAABm2fP=
+czU9TLzIAAAHcAAAASgAAAGBP9V5RY21hcAAAAkQAAACIAAABYt6F0cBjdnQgAAACzAAAAAQAAA=
+AEABEBRGdhc3AAAAWYAAAACAAAAAj//wADZ2x5ZgAAAywAAADMAAAD2MHtryVoZWFkAAABbAAAA=
+DAAAAA2E2+eoWhoZWEAAAGcAAAAHwAAACQC9gDzaG10eAAAAigAAAAZAAAArgJkABFsb2NhAAAC=
+0AAAAFoAAABaFQAUGG1heHAAAAG8AAAAHwAAACAAcABAbmFtZQAAA/gAAAE5AAACXvFdBwlwb3N=
+0AAAFNAAAAGIAAACE5s74hXjaY2BkYGAAYpf5Hu/j+W2+MnAzMYDAzaX6QjD6/4//Bxj5GA8AuR=
+wMYGkAPywL13jaY2BkYGA88P8Agx4j+/8fQDYfA1AEBWgDAIB2BOoAeNpjYGRgYNBh4GdgYgABE=
+MnIABJzYNADCQAACWgAsQB42mNgYfzCOIGBlYGB0YcxjYGBwR1Kf2WQZGhhYGBiYGVmgAFGBiQQ=
+kOaawtDAoMBQxXjg/wEGPcYDDA4wNUA2CCgwsAAAO4EL6gAAeNpj2M0gyAACqxgGNWBkZ2D4/wM=
+A+xkDdgAAAHjaY2BgYGaAYBkGRgYQiAHyGMF8FgYHIM3DwMHABGQrMOgyWDLEM1T9/w8UBfEMgL=
+zE////P/5//f/V/xv+r4eaAAeMbAxwIUYmIMHEgKYAYjUcsDAwsLKxc3BycfPw8jEQA/gZBASFh=
+EVExcQlJKWkZWTl5BUUlZRVVNXUNTQZBgMAAMR+E+gAEQFEAAAAKgAqACoANAA+AEgAUgBcAGYA=
+cAB6AIQAjgCYAKIArAC2AMAAygDUAN4A6ADyAPwBBgEQARoBJAEuATgBQgFMAVYBYAFqAXQBfgG=
+IAZIBnAGmAbIBzgHsAAB42u2NMQ6CUAyGW568x9AneYYgm4MJbhKFaExIOAVX8ApewSt4Bic4Af=
+eAid3VOBixDxfPYEza5O+Xfi04YADggiUIULCuEJK8VhO4bSvpdnktHI5QCYtdi2sl8ZnXaHlqU=
+rNKzdKcT8cjlq+rwZSvIVczNiezsfnP/uznmfPFBNODM2K7MTQ45YEAZqGP81AmGGcF3iPqOop0=
+r1SPTaTbVkfUe4HXj97wYE+yNwWYxwWu4v1ugWHgo3S1XdZEVqWM7ET0cfnLGxWfkgR42o2PvWr=
+DMBSFj/IHLaF0zKjRgdiVMwScNRAoWUoH78Y2icB/yIY09An6AH2Bdu/UB+yxopYshQiEvnvu0d=
+URgDt8QeC8PDw7Fpji3fEA4z/PEJ6YOB5hKh4dj3EvXhxPqH/SKUY3rJ7srZ4FZnh1PMAtPhwP6=
+fl2PMJMPDgeQ4rY8YT6Gzao0eAEA409DuggmTnFnOcSCiEiLMgxCiTI6Cq5DZUd3Qmp10vO0LaL=
+Td2cjN4fOumlc7lUYbSQcZFkutRG7g6JKZKy0RmdLY680CDnEJ+UMkpFFe1RN7nxdVpXrC4aTtn=
+aurOnYercZg2YVmLN/d/gczfEimrE/fs/bOuq29Zmn8tloORaXgZgGa78yO9/cnXm2BpaGvq25D=
+v9S4E9+5SIc9PqupJKhYFSSl47+Qcr1mYNAAAAeNptw0cKwkAAAMDZJA8Q7OUJvkLsPfZ6zFVER=
+Py8qHh2YER+3i/BP83vIBLLySsoKimrqKqpa2hp6+jq6RsYGhmbmJqZSy0sraxtbO3sHRydnEMU=
+4uR6yx7JJXveP7WrDycAAAAAAAH//wACeNpjYGRgYOABYhkgZgJCZgZNBkYGLQZtIJsFLMYAAAw=
+3ALgAeNolizEKgDAQBCchRbC2sFER0YD6qVQiBCv/H9ezGI6Z5XBAw8CBK/m5iQQVauVbXLnOrM=
+Zv2oLdKFa8Pjuru2hJzGabmOSLzNMzvutpB3N42mNgZGBg4GKQYzBhYMxJLMlj4GBgAYow/P/PA=
+JJhLM6sSoWKfWCAAwDAjgbRAAB42mNgYGBkAIIbCZo5IPrmUn0hGA0AO8EFTQAA'</span>);
+</code></td></tr><tr><td id=3D"L16" class=3D"css-a4x74f"><span>16</span></t=
+d><td id=3D"LC16" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">font-weight</span>: <span class=3D"code-number">400</span>;
+</code></td></tr><tr><td id=3D"L17" class=3D"css-a4x74f"><span>17</span></t=
+d><td id=3D"LC17" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">font-style</span>: normal;
+</code></td></tr><tr><td id=3D"L18" class=3D"css-a4x74f"><span>18</span></t=
+d><td id=3D"LC18" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L19" class=3D"css-a4x74f"><span>19</span></t=
+d><td id=3D"LC19" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+pseudo">:root</span> {
+</code></td></tr><tr><td id=3D"L20" class=3D"css-a4x74f"><span>20</span></t=
+d><td id=3D"LC20" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">--swiper-theme-color</span>: <span class=3D"code-number">#007aff</span>=
+;
+</code></td></tr><tr><td id=3D"L21" class=3D"css-a4x74f"><span>21</span></t=
+d><td id=3D"LC21" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L22" class=3D"css-a4x74f"><span>22</span></t=
+d><td id=3D"LC22" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper</span> {
+</code></td></tr><tr><td id=3D"L23" class=3D"css-a4x74f"><span>23</span></t=
+d><td id=3D"LC23" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">margin-left</span>: auto;
+</code></td></tr><tr><td id=3D"L24" class=3D"css-a4x74f"><span>24</span></t=
+d><td id=3D"LC24" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">margin-right</span>: auto;
+</code></td></tr><tr><td id=3D"L25" class=3D"css-a4x74f"><span>25</span></t=
+d><td id=3D"LC25" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">position</span>: relative;
+</code></td></tr><tr><td id=3D"L26" class=3D"css-a4x74f"><span>26</span></t=
+d><td id=3D"LC26" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">overflow</span>: hidden;
+</code></td></tr><tr><td id=3D"L27" class=3D"css-a4x74f"><span>27</span></t=
+d><td id=3D"LC27" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">list-style</span>: none;
+</code></td></tr><tr><td id=3D"L28" class=3D"css-a4x74f"><span>28</span></t=
+d><td id=3D"LC28" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">padding</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L29" class=3D"css-a4x74f"><span>29</span></t=
+d><td id=3D"LC29" class=3D"css-1dcdqdg"><code>  <span class=3D"code-comment=
+">/* Fix of Webkit flickering */</span>
+</code></td></tr><tr><td id=3D"L30" class=3D"css-a4x74f"><span>30</span></t=
+d><td id=3D"LC30" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">z-index</span>: <span class=3D"code-number">1</span>;
+</code></td></tr><tr><td id=3D"L31" class=3D"css-a4x74f"><span>31</span></t=
+d><td id=3D"LC31" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L32" class=3D"css-a4x74f"><span>32</span></t=
+d><td id=3D"LC32" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-vertical</span> &gt; <span class=3D"hljs-selector-class">.sw=
+iper-wrapper</span> {
+</code></td></tr><tr><td id=3D"L33" class=3D"css-a4x74f"><span>33</span></t=
+d><td id=3D"LC33" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">flex-direction</span>: column;
+</code></td></tr><tr><td id=3D"L34" class=3D"css-a4x74f"><span>34</span></t=
+d><td id=3D"LC34" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L35" class=3D"css-a4x74f"><span>35</span></t=
+d><td id=3D"LC35" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-wrapper</span> {
+</code></td></tr><tr><td id=3D"L36" class=3D"css-a4x74f"><span>36</span></t=
+d><td id=3D"LC36" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">position</span>: relative;
+</code></td></tr><tr><td id=3D"L37" class=3D"css-a4x74f"><span>37</span></t=
+d><td id=3D"LC37" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L38" class=3D"css-a4x74f"><span>38</span></t=
+d><td id=3D"LC38" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L39" class=3D"css-a4x74f"><span>39</span></t=
+d><td id=3D"LC39" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">z-index</span>: <span class=3D"code-number">1</span>;
+</code></td></tr><tr><td id=3D"L40" class=3D"css-a4x74f"><span>40</span></t=
+d><td id=3D"LC40" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">display</span>: flex;
+</code></td></tr><tr><td id=3D"L41" class=3D"css-a4x74f"><span>41</span></t=
+d><td id=3D"LC41" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">transition-property</span>: transform;
+</code></td></tr><tr><td id=3D"L42" class=3D"css-a4x74f"><span>42</span></t=
+d><td id=3D"LC42" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">box-sizing</span>: content-box;
+</code></td></tr><tr><td id=3D"L43" class=3D"css-a4x74f"><span>43</span></t=
+d><td id=3D"LC43" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L44" class=3D"css-a4x74f"><span>44</span></t=
+d><td id=3D"LC44" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-android</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide</span>,
+</code></td></tr><tr><td id=3D"L45" class=3D"css-a4x74f"><span>45</span></t=
+d><td id=3D"LC45" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-wrapper</span> {
+</code></td></tr><tr><td id=3D"L46" class=3D"css-a4x74f"><span>46</span></t=
+d><td id=3D"LC46" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">transform</span>: <span class=3D"code-built_in">translate3d</span>(0px,=
+ 0, 0);
+</code></td></tr><tr><td id=3D"L47" class=3D"css-a4x74f"><span>47</span></t=
+d><td id=3D"LC47" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L48" class=3D"css-a4x74f"><span>48</span></t=
+d><td id=3D"LC48" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-pointer-events</span> {
+</code></td></tr><tr><td id=3D"L49" class=3D"css-a4x74f"><span>49</span></t=
+d><td id=3D"LC49" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">touch-action</span>: pan-y;
+</code></td></tr><tr><td id=3D"L50" class=3D"css-a4x74f"><span>50</span></t=
+d><td id=3D"LC50" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L51" class=3D"css-a4x74f"><span>51</span></t=
+d><td id=3D"LC51" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-pointer-events</span><span class=3D"hljs-selector-class">.sw=
+iper-vertical</span> {
+</code></td></tr><tr><td id=3D"L52" class=3D"css-a4x74f"><span>52</span></t=
+d><td id=3D"LC52" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">touch-action</span>: pan-x;
+</code></td></tr><tr><td id=3D"L53" class=3D"css-a4x74f"><span>53</span></t=
+d><td id=3D"LC53" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L54" class=3D"css-a4x74f"><span>54</span></t=
+d><td id=3D"LC54" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-slide</span> {
+</code></td></tr><tr><td id=3D"L55" class=3D"css-a4x74f"><span>55</span></t=
+d><td id=3D"LC55" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">flex-shrink</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L56" class=3D"css-a4x74f"><span>56</span></t=
+d><td id=3D"LC56" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L57" class=3D"css-a4x74f"><span>57</span></t=
+d><td id=3D"LC57" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L58" class=3D"css-a4x74f"><span>58</span></t=
+d><td id=3D"LC58" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">position</span>: relative;
+</code></td></tr><tr><td id=3D"L59" class=3D"css-a4x74f"><span>59</span></t=
+d><td id=3D"LC59" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">transition-property</span>: transform;
+</code></td></tr><tr><td id=3D"L60" class=3D"css-a4x74f"><span>60</span></t=
+d><td id=3D"LC60" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L61" class=3D"css-a4x74f"><span>61</span></t=
+d><td id=3D"LC61" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-slide-invisible-blank</span> {
+</code></td></tr><tr><td id=3D"L62" class=3D"css-a4x74f"><span>62</span></t=
+d><td id=3D"LC62" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L63" class=3D"css-a4x74f"><span>63</span></t=
+d><td id=3D"LC63" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L64" class=3D"css-a4x74f"><span>64</span></t=
+d><td id=3D"LC64" class=3D"css-1dcdqdg"><code><span class=3D"code-comment">=
+/* Auto Height */</span>
+</code></td></tr><tr><td id=3D"L65" class=3D"css-a4x74f"><span>65</span></t=
+d><td id=3D"LC65" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-autoheight</span>,
+</code></td></tr><tr><td id=3D"L66" class=3D"css-a4x74f"><span>66</span></t=
+d><td id=3D"LC66" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-autoheight</span> <span class=3D"hljs-selector-class">.swipe=
+r-slide</span> {
+</code></td></tr><tr><td id=3D"L67" class=3D"css-a4x74f"><span>67</span></t=
+d><td id=3D"LC67" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">height</span>: auto;
+</code></td></tr><tr><td id=3D"L68" class=3D"css-a4x74f"><span>68</span></t=
+d><td id=3D"LC68" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L69" class=3D"css-a4x74f"><span>69</span></t=
+d><td id=3D"LC69" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-autoheight</span> <span class=3D"hljs-selector-class">.swipe=
+r-wrapper</span> {
+</code></td></tr><tr><td id=3D"L70" class=3D"css-a4x74f"><span>70</span></t=
+d><td id=3D"LC70" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">align-items</span>: flex-start;
+</code></td></tr><tr><td id=3D"L71" class=3D"css-a4x74f"><span>71</span></t=
+d><td id=3D"LC71" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">transition-property</span>: transform, height;
+</code></td></tr><tr><td id=3D"L72" class=3D"css-a4x74f"><span>72</span></t=
+d><td id=3D"LC72" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L73" class=3D"css-a4x74f"><span>73</span></t=
+d><td id=3D"LC73" class=3D"css-1dcdqdg"><code><span class=3D"code-comment">=
+/* 3D Effects */</span>
+</code></td></tr><tr><td id=3D"L74" class=3D"css-a4x74f"><span>74</span></t=
+d><td id=3D"LC74" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span>,
+</code></td></tr><tr><td id=3D"L75" class=3D"css-a4x74f"><span>75</span></t=
+d><td id=3D"LC75" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span><span class=3D"hljs-selector-class">.swiper-css-mod=
+e</span> <span class=3D"hljs-selector-class">.swiper-wrapper</span> {
+</code></td></tr><tr><td id=3D"L76" class=3D"css-a4x74f"><span>76</span></t=
+d><td id=3D"LC76" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">perspective</span>: <span class=3D"code-number">1200px</span>;
+</code></td></tr><tr><td id=3D"L77" class=3D"css-a4x74f"><span>77</span></t=
+d><td id=3D"LC77" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L78" class=3D"css-a4x74f"><span>78</span></t=
+d><td id=3D"LC78" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-wrappe=
+r</span>,
+</code></td></tr><tr><td id=3D"L79" class=3D"css-a4x74f"><span>79</span></t=
+d><td id=3D"LC79" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide<=
+/span>,
+</code></td></tr><tr><td id=3D"L80" class=3D"css-a4x74f"><span>80</span></t=
+d><td id=3D"LC80" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow</span>,
+</code></td></tr><tr><td id=3D"L81" class=3D"css-a4x74f"><span>81</span></t=
+d><td id=3D"LC81" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow-left</span>,
+</code></td></tr><tr><td id=3D"L82" class=3D"css-a4x74f"><span>82</span></t=
+d><td id=3D"LC82" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow-right</span>,
+</code></td></tr><tr><td id=3D"L83" class=3D"css-a4x74f"><span>83</span></t=
+d><td id=3D"LC83" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow-top</span>,
+</code></td></tr><tr><td id=3D"L84" class=3D"css-a4x74f"><span>84</span></t=
+d><td id=3D"LC84" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow-bottom</span>,
+</code></td></tr><tr><td id=3D"L85" class=3D"css-a4x74f"><span>85</span></t=
+d><td id=3D"LC85" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-cube-s=
+hadow</span> {
+</code></td></tr><tr><td id=3D"L86" class=3D"css-a4x74f"><span>86</span></t=
+d><td id=3D"LC86" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">transform-style</span>: preserve-<span class=3D"code-number">3</span>d;
+</code></td></tr><tr><td id=3D"L87" class=3D"css-a4x74f"><span>87</span></t=
+d><td id=3D"LC87" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L88" class=3D"css-a4x74f"><span>88</span></t=
+d><td id=3D"LC88" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow</span>,
+</code></td></tr><tr><td id=3D"L89" class=3D"css-a4x74f"><span>89</span></t=
+d><td id=3D"LC89" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow-left</span>,
+</code></td></tr><tr><td id=3D"L90" class=3D"css-a4x74f"><span>90</span></t=
+d><td id=3D"LC90" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow-right</span>,
+</code></td></tr><tr><td id=3D"L91" class=3D"css-a4x74f"><span>91</span></t=
+d><td id=3D"LC91" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow-top</span>,
+</code></td></tr><tr><td id=3D"L92" class=3D"css-a4x74f"><span>92</span></t=
+d><td id=3D"LC92" class=3D"css-1dcdqdg"><code><span class=3D"hljs-selector-=
+class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-slide-=
+shadow-bottom</span> {
+</code></td></tr><tr><td id=3D"L93" class=3D"css-a4x74f"><span>93</span></t=
+d><td id=3D"LC93" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L94" class=3D"css-a4x74f"><span>94</span></t=
+d><td id=3D"LC94" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L95" class=3D"css-a4x74f"><span>95</span></t=
+d><td id=3D"LC95" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">top</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L96" class=3D"css-a4x74f"><span>96</span></t=
+d><td id=3D"LC96" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L97" class=3D"css-a4x74f"><span>97</span></t=
+d><td id=3D"LC97" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L98" class=3D"css-a4x74f"><span>98</span></t=
+d><td id=3D"LC98" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L99" class=3D"css-a4x74f"><span>99</span></t=
+d><td id=3D"LC99" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attribu=
+te">z-index</span>: <span class=3D"code-number">10</span>;
+</code></td></tr><tr><td id=3D"L100" class=3D"css-a4x74f"><span>100</span><=
+/td><td id=3D"LC100" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L101" class=3D"css-a4x74f"><span>101</span><=
+/td><td id=3D"LC101" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-sli=
+de-shadow</span> {
+</code></td></tr><tr><td id=3D"L102" class=3D"css-a4x74f"><span>102</span><=
+/td><td id=3D"LC102" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background</span>: <span class=3D"code-built_in">rgba</span>(0, 0, 0=
+, 0.15);
+</code></td></tr><tr><td id=3D"L103" class=3D"css-a4x74f"><span>103</span><=
+/td><td id=3D"LC103" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L104" class=3D"css-a4x74f"><span>104</span><=
+/td><td id=3D"LC104" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-sli=
+de-shadow-left</span> {
+</code></td></tr><tr><td id=3D"L105" class=3D"css-a4x74f"><span>105</span><=
+/td><td id=3D"LC105" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background-image</span>: <span class=3D"code-built_in">linear-gradie=
+nt</span>(to left, rgba(0, 0, 0, 0.5), <span class=3D"code-built_in">rgba</=
+span>(0, 0, 0, 0));
+</code></td></tr><tr><td id=3D"L106" class=3D"css-a4x74f"><span>106</span><=
+/td><td id=3D"LC106" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L107" class=3D"css-a4x74f"><span>107</span><=
+/td><td id=3D"LC107" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-sli=
+de-shadow-right</span> {
+</code></td></tr><tr><td id=3D"L108" class=3D"css-a4x74f"><span>108</span><=
+/td><td id=3D"LC108" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background-image</span>: <span class=3D"code-built_in">linear-gradie=
+nt</span>(to right, rgba(0, 0, 0, 0.5), <span class=3D"code-built_in">rgba<=
+/span>(0, 0, 0, 0));
+</code></td></tr><tr><td id=3D"L109" class=3D"css-a4x74f"><span>109</span><=
+/td><td id=3D"LC109" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L110" class=3D"css-a4x74f"><span>110</span><=
+/td><td id=3D"LC110" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-sli=
+de-shadow-top</span> {
+</code></td></tr><tr><td id=3D"L111" class=3D"css-a4x74f"><span>111</span><=
+/td><td id=3D"LC111" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background-image</span>: <span class=3D"code-built_in">linear-gradie=
+nt</span>(to top, rgba(0, 0, 0, 0.5), <span class=3D"code-built_in">rgba</s=
+pan>(0, 0, 0, 0));
+</code></td></tr><tr><td id=3D"L112" class=3D"css-a4x74f"><span>112</span><=
+/td><td id=3D"LC112" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L113" class=3D"css-a4x74f"><span>113</span><=
+/td><td id=3D"LC113" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-3d</span> <span class=3D"hljs-selector-class">.swiper-sli=
+de-shadow-bottom</span> {
+</code></td></tr><tr><td id=3D"L114" class=3D"css-a4x74f"><span>114</span><=
+/td><td id=3D"LC114" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background-image</span>: <span class=3D"code-built_in">linear-gradie=
+nt</span>(to bottom, rgba(0, 0, 0, 0.5), <span class=3D"code-built_in">rgba=
+</span>(0, 0, 0, 0));
+</code></td></tr><tr><td id=3D"L115" class=3D"css-a4x74f"><span>115</span><=
+/td><td id=3D"LC115" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L116" class=3D"css-a4x74f"><span>116</span><=
+/td><td id=3D"LC116" class=3D"css-1dcdqdg"><code><span class=3D"code-commen=
+t">/* CSS Mode */</span>
+</code></td></tr><tr><td id=3D"L117" class=3D"css-a4x74f"><span>117</span><=
+/td><td id=3D"LC117" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-css-mode</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-wrapper</span> {
+</code></td></tr><tr><td id=3D"L118" class=3D"css-a4x74f"><span>118</span><=
+/td><td id=3D"LC118" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">overflow</span>: auto;
+</code></td></tr><tr><td id=3D"L119" class=3D"css-a4x74f"><span>119</span><=
+/td><td id=3D"LC119" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">scrollbar-width</span>: none;
+</code></td></tr><tr><td id=3D"L120" class=3D"css-a4x74f"><span>120</span><=
+/td><td id=3D"LC120" class=3D"css-1dcdqdg"><code>  <span class=3D"code-comm=
+ent">/* For Firefox */</span>
+</code></td></tr><tr><td id=3D"L121" class=3D"css-a4x74f"><span>121</span><=
+/td><td id=3D"LC121" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-ms-overflow-style</span>: none;
+</code></td></tr><tr><td id=3D"L122" class=3D"css-a4x74f"><span>122</span><=
+/td><td id=3D"LC122" class=3D"css-1dcdqdg"><code>  <span class=3D"code-comm=
+ent">/* For Internet Explorer and Edge */</span>
+</code></td></tr><tr><td id=3D"L123" class=3D"css-a4x74f"><span>123</span><=
+/td><td id=3D"LC123" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L124" class=3D"css-a4x74f"><span>124</span><=
+/td><td id=3D"LC124" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-css-mode</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-wrapper</span><span class=3D"hljs-selector-pseudo">::-webkit-scroll=
+bar</span> {
+</code></td></tr><tr><td id=3D"L125" class=3D"css-a4x74f"><span>125</span><=
+/td><td id=3D"LC125" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: none;
+</code></td></tr><tr><td id=3D"L126" class=3D"css-a4x74f"><span>126</span><=
+/td><td id=3D"LC126" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L127" class=3D"css-a4x74f"><span>127</span><=
+/td><td id=3D"LC127" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-css-mode</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-wrapper</span> &gt; <span class=3D"hljs-selector-class">.swiper-sli=
+de</span> {
+</code></td></tr><tr><td id=3D"L128" class=3D"css-a4x74f"><span>128</span><=
+/td><td id=3D"LC128" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">scroll-snap-align</span>: start start;
+</code></td></tr><tr><td id=3D"L129" class=3D"css-a4x74f"><span>129</span><=
+/td><td id=3D"LC129" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L130" class=3D"css-a4x74f"><span>130</span><=
+/td><td id=3D"LC130" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span><span class=3D"hljs-selector-class">.swi=
+per-css-mode</span> &gt; <span class=3D"hljs-selector-class">.swiper-wrappe=
+r</span> {
+</code></td></tr><tr><td id=3D"L131" class=3D"css-a4x74f"><span>131</span><=
+/td><td id=3D"LC131" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">scroll-snap-type</span>: x mandatory;
+</code></td></tr><tr><td id=3D"L132" class=3D"css-a4x74f"><span>132</span><=
+/td><td id=3D"LC132" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L133" class=3D"css-a4x74f"><span>133</span><=
+/td><td id=3D"LC133" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-vertical</span><span class=3D"hljs-selector-class">.swipe=
+r-css-mode</span> &gt; <span class=3D"hljs-selector-class">.swiper-wrapper<=
+/span> {
+</code></td></tr><tr><td id=3D"L134" class=3D"css-a4x74f"><span>134</span><=
+/td><td id=3D"LC134" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">scroll-snap-type</span>: y mandatory;
+</code></td></tr><tr><td id=3D"L135" class=3D"css-a4x74f"><span>135</span><=
+/td><td id=3D"LC135" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L136" class=3D"css-a4x74f"><span>136</span><=
+/td><td id=3D"LC136" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-centered</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-wrapper</span><span class=3D"hljs-selector-pseudo">::before</span> =
+{
+</code></td></tr><tr><td id=3D"L137" class=3D"css-a4x74f"><span>137</span><=
+/td><td id=3D"LC137" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">content</span>: <span class=3D"code-string">''</span>;
+</code></td></tr><tr><td id=3D"L138" class=3D"css-a4x74f"><span>138</span><=
+/td><td id=3D"LC138" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">flex-shrink</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L139" class=3D"css-a4x74f"><span>139</span><=
+/td><td id=3D"LC139" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">order</span>: <span class=3D"code-number">9999</span>;
+</code></td></tr><tr><td id=3D"L140" class=3D"css-a4x74f"><span>140</span><=
+/td><td id=3D"LC140" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L141" class=3D"css-a4x74f"><span>141</span><=
+/td><td id=3D"LC141" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-centered</span><span class=3D"hljs-selector-class">.swipe=
+r-horizontal</span> &gt; <span class=3D"hljs-selector-class">.swiper-wrappe=
+r</span> &gt; <span class=3D"hljs-selector-class">.swiper-slide</span><span=
+ class=3D"hljs-selector-pseudo">:first-child</span> {
+</code></td></tr><tr><td id=3D"L142" class=3D"css-a4x74f"><span>142</span><=
+/td><td id=3D"LC142" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin-inline-start</span>: <span class=3D"code-built_in">var</span>=
+(--swiper-centered-offset-before);
+</code></td></tr><tr><td id=3D"L143" class=3D"css-a4x74f"><span>143</span><=
+/td><td id=3D"LC143" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L144" class=3D"css-a4x74f"><span>144</span><=
+/td><td id=3D"LC144" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-centered</span><span class=3D"hljs-selector-class">.swipe=
+r-horizontal</span> &gt; <span class=3D"hljs-selector-class">.swiper-wrappe=
+r</span><span class=3D"hljs-selector-pseudo">::before</span> {
+</code></td></tr><tr><td id=3D"L145" class=3D"css-a4x74f"><span>145</span><=
+/td><td id=3D"LC145" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L146" class=3D"css-a4x74f"><span>146</span><=
+/td><td id=3D"LC146" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">min-height</span>: <span class=3D"code-number">1px</span>;
+</code></td></tr><tr><td id=3D"L147" class=3D"css-a4x74f"><span>147</span><=
+/td><td id=3D"LC147" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-built_in">var</span>(--swiper-cent=
+ered-offset-after);
+</code></td></tr><tr><td id=3D"L148" class=3D"css-a4x74f"><span>148</span><=
+/td><td id=3D"LC148" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L149" class=3D"css-a4x74f"><span>149</span><=
+/td><td id=3D"LC149" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-centered</span><span class=3D"hljs-selector-class">.swipe=
+r-vertical</span> &gt; <span class=3D"hljs-selector-class">.swiper-wrapper<=
+/span> &gt; <span class=3D"hljs-selector-class">.swiper-slide</span><span c=
+lass=3D"hljs-selector-pseudo">:first-child</span> {
+</code></td></tr><tr><td id=3D"L150" class=3D"css-a4x74f"><span>150</span><=
+/td><td id=3D"LC150" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin-block-start</span>: <span class=3D"code-built_in">var</span>(=
+--swiper-centered-offset-before);
+</code></td></tr><tr><td id=3D"L151" class=3D"css-a4x74f"><span>151</span><=
+/td><td id=3D"LC151" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L152" class=3D"css-a4x74f"><span>152</span><=
+/td><td id=3D"LC152" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-centered</span><span class=3D"hljs-selector-class">.swipe=
+r-vertical</span> &gt; <span class=3D"hljs-selector-class">.swiper-wrapper<=
+/span><span class=3D"hljs-selector-pseudo">::before</span> {
+</code></td></tr><tr><td id=3D"L153" class=3D"css-a4x74f"><span>153</span><=
+/td><td id=3D"LC153" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L154" class=3D"css-a4x74f"><span>154</span><=
+/td><td id=3D"LC154" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">min-width</span>: <span class=3D"code-number">1px</span>;
+</code></td></tr><tr><td id=3D"L155" class=3D"css-a4x74f"><span>155</span><=
+/td><td id=3D"LC155" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-built_in">var</span>(--swiper-cen=
+tered-offset-after);
+</code></td></tr><tr><td id=3D"L156" class=3D"css-a4x74f"><span>156</span><=
+/td><td id=3D"LC156" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L157" class=3D"css-a4x74f"><span>157</span><=
+/td><td id=3D"LC157" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-centered</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-wrapper</span> &gt; <span class=3D"hljs-selector-class">.swiper-sli=
+de</span> {
+</code></td></tr><tr><td id=3D"L158" class=3D"css-a4x74f"><span>158</span><=
+/td><td id=3D"LC158" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">scroll-snap-align</span>: center center;
+</code></td></tr><tr><td id=3D"L159" class=3D"css-a4x74f"><span>159</span><=
+/td><td id=3D"LC159" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L160" class=3D"css-a4x74f"><span>160</span><=
+/td><td id=3D"LC160" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-virtual</span><span class=3D"hljs-selector-class">.swiper=
+-css-mode</span> <span class=3D"hljs-selector-class">.swiper-wrapper</span>=
+<span class=3D"hljs-selector-pseudo">::after</span> {
+</code></td></tr><tr><td id=3D"L161" class=3D"css-a4x74f"><span>161</span><=
+/td><td id=3D"LC161" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">content</span>: <span class=3D"code-string">''</span>;
+</code></td></tr><tr><td id=3D"L162" class=3D"css-a4x74f"><span>162</span><=
+/td><td id=3D"LC162" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L163" class=3D"css-a4x74f"><span>163</span><=
+/td><td id=3D"LC163" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L164" class=3D"css-a4x74f"><span>164</span><=
+/td><td id=3D"LC164" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L165" class=3D"css-a4x74f"><span>165</span><=
+/td><td id=3D"LC165" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L166" class=3D"css-a4x74f"><span>166</span><=
+/td><td id=3D"LC166" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L167" class=3D"css-a4x74f"><span>167</span><=
+/td><td id=3D"LC167" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-virtual</span><span class=3D"hljs-selector-class">.swiper=
+-css-mode</span><span class=3D"hljs-selector-class">.swiper-horizontal</spa=
+n> <span class=3D"hljs-selector-class">.swiper-wrapper</span><span class=3D=
+"hljs-selector-pseudo">::after</span> {
+</code></td></tr><tr><td id=3D"L168" class=3D"css-a4x74f"><span>168</span><=
+/td><td id=3D"LC168" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">1px</span>;
+</code></td></tr><tr><td id=3D"L169" class=3D"css-a4x74f"><span>169</span><=
+/td><td id=3D"LC169" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-built_in">var</span>(--swiper-virt=
+ual-size);
+</code></td></tr><tr><td id=3D"L170" class=3D"css-a4x74f"><span>170</span><=
+/td><td id=3D"LC170" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L171" class=3D"css-a4x74f"><span>171</span><=
+/td><td id=3D"LC171" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-virtual</span><span class=3D"hljs-selector-class">.swiper=
+-css-mode</span><span class=3D"hljs-selector-class">.swiper-vertical</span>=
+ <span class=3D"hljs-selector-class">.swiper-wrapper</span><span class=3D"h=
+ljs-selector-pseudo">::after</span> {
+</code></td></tr><tr><td id=3D"L172" class=3D"css-a4x74f"><span>172</span><=
+/td><td id=3D"LC172" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">1px</span>;
+</code></td></tr><tr><td id=3D"L173" class=3D"css-a4x74f"><span>173</span><=
+/td><td id=3D"LC173" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-built_in">var</span>(--swiper-vir=
+tual-size);
+</code></td></tr><tr><td id=3D"L174" class=3D"css-a4x74f"><span>174</span><=
+/td><td id=3D"LC174" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L175" class=3D"css-a4x74f"><span>175</span><=
+/td><td id=3D"LC175" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-pseudo">:root</span> {
+</code></td></tr><tr><td id=3D"L176" class=3D"css-a4x74f"><span>176</span><=
+/td><td id=3D"LC176" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">--swiper-navigation-size</span>: <span class=3D"code-number">44px</s=
+pan>;
+</code></td></tr><tr><td id=3D"L177" class=3D"css-a4x74f"><span>177</span><=
+/td><td id=3D"LC177" class=3D"css-1dcdqdg"><code>  <span class=3D"code-comm=
+ent">/*
+</span></code></td></tr><tr><td id=3D"L178" class=3D"css-a4x74f"><span>178<=
+/span></td><td id=3D"LC178" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-navigation-color: var(--swiper-theme-color);
+</span></code></td></tr><tr><td id=3D"L179" class=3D"css-a4x74f"><span>179<=
+/span></td><td id=3D"LC179" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  */</span>
+</code></td></tr><tr><td id=3D"L180" class=3D"css-a4x74f"><span>180</span><=
+/td><td id=3D"LC180" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L181" class=3D"css-a4x74f"><span>181</span><=
+/td><td id=3D"LC181" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-prev</span>,
+</code></td></tr><tr><td id=3D"L182" class=3D"css-a4x74f"><span>182</span><=
+/td><td id=3D"LC182" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-next</span> {
+</code></td></tr><tr><td id=3D"L183" class=3D"css-a4x74f"><span>183</span><=
+/td><td id=3D"LC183" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L184" class=3D"css-a4x74f"><span>184</span><=
+/td><td id=3D"LC184" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L185" class=3D"css-a4x74f"><span>185</span><=
+/td><td id=3D"LC185" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-built_in">calc</span>(var(--swiper=
+-navigation-size) / <span class=3D"code-number">44</span> * <span class=3D"=
+code-number">27</span>);
+</code></td></tr><tr><td id=3D"L186" class=3D"css-a4x74f"><span>186</span><=
+/td><td id=3D"LC186" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-built_in">var</span>(--swiper-nav=
+igation-size);
+</code></td></tr><tr><td id=3D"L187" class=3D"css-a4x74f"><span>187</span><=
+/td><td id=3D"LC187" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin-top</span>: <span class=3D"code-built_in">calc</span>(0px - (=
+var(--swiper-navigation-size) / <span class=3D"code-number">2</span>));
+</code></td></tr><tr><td id=3D"L188" class=3D"css-a4x74f"><span>188</span><=
+/td><td id=3D"LC188" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">10</span>;
+</code></td></tr><tr><td id=3D"L189" class=3D"css-a4x74f"><span>189</span><=
+/td><td id=3D"LC189" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">cursor</span>: pointer;
+</code></td></tr><tr><td id=3D"L190" class=3D"css-a4x74f"><span>190</span><=
+/td><td id=3D"LC190" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: flex;
+</code></td></tr><tr><td id=3D"L191" class=3D"css-a4x74f"><span>191</span><=
+/td><td id=3D"LC191" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">align-items</span>: center;
+</code></td></tr><tr><td id=3D"L192" class=3D"css-a4x74f"><span>192</span><=
+/td><td id=3D"LC192" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">justify-content</span>: center;
+</code></td></tr><tr><td id=3D"L193" class=3D"css-a4x74f"><span>193</span><=
+/td><td id=3D"LC193" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">color</span>: <span class=3D"code-built_in">var</span>(--swiper-navi=
+gation-color, var(--swiper-theme-color));
+</code></td></tr><tr><td id=3D"L194" class=3D"css-a4x74f"><span>194</span><=
+/td><td id=3D"LC194" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L195" class=3D"css-a4x74f"><span>195</span><=
+/td><td id=3D"LC195" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-prev</span><span class=3D"hljs-selector-class">.sw=
+iper-button-disabled</span>,
+</code></td></tr><tr><td id=3D"L196" class=3D"css-a4x74f"><span>196</span><=
+/td><td id=3D"LC196" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-next</span><span class=3D"hljs-selector-class">.sw=
+iper-button-disabled</span> {
+</code></td></tr><tr><td id=3D"L197" class=3D"css-a4x74f"><span>197</span><=
+/td><td id=3D"LC197" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">opacity</span>: <span class=3D"code-number">0.35</span>;
+</code></td></tr><tr><td id=3D"L198" class=3D"css-a4x74f"><span>198</span><=
+/td><td id=3D"LC198" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">cursor</span>: auto;
+</code></td></tr><tr><td id=3D"L199" class=3D"css-a4x74f"><span>199</span><=
+/td><td id=3D"LC199" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L200" class=3D"css-a4x74f"><span>200</span><=
+/td><td id=3D"LC200" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L201" class=3D"css-a4x74f"><span>201</span><=
+/td><td id=3D"LC201" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-prev</span><span class=3D"hljs-selector-pseudo">:a=
+fter</span>,
+</code></td></tr><tr><td id=3D"L202" class=3D"css-a4x74f"><span>202</span><=
+/td><td id=3D"LC202" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-next</span><span class=3D"hljs-selector-pseudo">:a=
+fter</span> {
+</code></td></tr><tr><td id=3D"L203" class=3D"css-a4x74f"><span>203</span><=
+/td><td id=3D"LC203" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">font-family</span>: swiper-icons;
+</code></td></tr><tr><td id=3D"L204" class=3D"css-a4x74f"><span>204</span><=
+/td><td id=3D"LC204" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">font-size</span>: <span class=3D"code-built_in">var</span>(--swiper-=
+navigation-size);
+</code></td></tr><tr><td id=3D"L205" class=3D"css-a4x74f"><span>205</span><=
+/td><td id=3D"LC205" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">text-transform</span>: none <span class=3D"code-meta">!important</sp=
+an>;
+</code></td></tr><tr><td id=3D"L206" class=3D"css-a4x74f"><span>206</span><=
+/td><td id=3D"LC206" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">letter-spacing</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L207" class=3D"css-a4x74f"><span>207</span><=
+/td><td id=3D"LC207" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">text-transform</span>: none;
+</code></td></tr><tr><td id=3D"L208" class=3D"css-a4x74f"><span>208</span><=
+/td><td id=3D"LC208" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">font-variant</span>: initial;
+</code></td></tr><tr><td id=3D"L209" class=3D"css-a4x74f"><span>209</span><=
+/td><td id=3D"LC209" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">line-height</span>: <span class=3D"code-number">1</span>;
+</code></td></tr><tr><td id=3D"L210" class=3D"css-a4x74f"><span>210</span><=
+/td><td id=3D"LC210" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L211" class=3D"css-a4x74f"><span>211</span><=
+/td><td id=3D"LC211" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-prev</span>,
+</code></td></tr><tr><td id=3D"L212" class=3D"css-a4x74f"><span>212</span><=
+/td><td id=3D"LC212" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-rtl</span> <span class=3D"hljs-selector-class">.swiper-bu=
+tton-next</span> {
+</code></td></tr><tr><td id=3D"L213" class=3D"css-a4x74f"><span>213</span><=
+/td><td id=3D"LC213" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">10px</span>;
+</code></td></tr><tr><td id=3D"L214" class=3D"css-a4x74f"><span>214</span><=
+/td><td id=3D"LC214" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">right</span>: auto;
+</code></td></tr><tr><td id=3D"L215" class=3D"css-a4x74f"><span>215</span><=
+/td><td id=3D"LC215" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L216" class=3D"css-a4x74f"><span>216</span><=
+/td><td id=3D"LC216" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-prev</span><span class=3D"hljs-selector-pseudo">:a=
+fter</span>,
+</code></td></tr><tr><td id=3D"L217" class=3D"css-a4x74f"><span>217</span><=
+/td><td id=3D"LC217" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-rtl</span> <span class=3D"hljs-selector-class">.swiper-bu=
+tton-next</span><span class=3D"hljs-selector-pseudo">:after</span> {
+</code></td></tr><tr><td id=3D"L218" class=3D"css-a4x74f"><span>218</span><=
+/td><td id=3D"LC218" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">content</span>: <span class=3D"code-string">'prev'</span>;
+</code></td></tr><tr><td id=3D"L219" class=3D"css-a4x74f"><span>219</span><=
+/td><td id=3D"LC219" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L220" class=3D"css-a4x74f"><span>220</span><=
+/td><td id=3D"LC220" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-next</span>,
+</code></td></tr><tr><td id=3D"L221" class=3D"css-a4x74f"><span>221</span><=
+/td><td id=3D"LC221" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-rtl</span> <span class=3D"hljs-selector-class">.swiper-bu=
+tton-prev</span> {
+</code></td></tr><tr><td id=3D"L222" class=3D"css-a4x74f"><span>222</span><=
+/td><td id=3D"LC222" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">right</span>: <span class=3D"code-number">10px</span>;
+</code></td></tr><tr><td id=3D"L223" class=3D"css-a4x74f"><span>223</span><=
+/td><td id=3D"LC223" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: auto;
+</code></td></tr><tr><td id=3D"L224" class=3D"css-a4x74f"><span>224</span><=
+/td><td id=3D"LC224" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L225" class=3D"css-a4x74f"><span>225</span><=
+/td><td id=3D"LC225" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-next</span><span class=3D"hljs-selector-pseudo">:a=
+fter</span>,
+</code></td></tr><tr><td id=3D"L226" class=3D"css-a4x74f"><span>226</span><=
+/td><td id=3D"LC226" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-rtl</span> <span class=3D"hljs-selector-class">.swiper-bu=
+tton-prev</span><span class=3D"hljs-selector-pseudo">:after</span> {
+</code></td></tr><tr><td id=3D"L227" class=3D"css-a4x74f"><span>227</span><=
+/td><td id=3D"LC227" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">content</span>: <span class=3D"code-string">'next'</span>;
+</code></td></tr><tr><td id=3D"L228" class=3D"css-a4x74f"><span>228</span><=
+/td><td id=3D"LC228" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L229" class=3D"css-a4x74f"><span>229</span><=
+/td><td id=3D"LC229" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-button-lock</span> {
+</code></td></tr><tr><td id=3D"L230" class=3D"css-a4x74f"><span>230</span><=
+/td><td id=3D"LC230" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: none;
+</code></td></tr><tr><td id=3D"L231" class=3D"css-a4x74f"><span>231</span><=
+/td><td id=3D"LC231" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L232" class=3D"css-a4x74f"><span>232</span><=
+/td><td id=3D"LC232" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-pseudo">:root</span> {
+</code></td></tr><tr><td id=3D"L233" class=3D"css-a4x74f"><span>233</span><=
+/td><td id=3D"LC233" class=3D"css-1dcdqdg"><code>  <span class=3D"code-comm=
+ent">/*
+</span></code></td></tr><tr><td id=3D"L234" class=3D"css-a4x74f"><span>234<=
+/span></td><td id=3D"LC234" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-color: var(--swiper-theme-color);
+</span></code></td></tr><tr><td id=3D"L235" class=3D"css-a4x74f"><span>235<=
+/span></td><td id=3D"LC235" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-bullet-size: 8px;
+</span></code></td></tr><tr><td id=3D"L236" class=3D"css-a4x74f"><span>236<=
+/span></td><td id=3D"LC236" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-bullet-width: 8px;
+</span></code></td></tr><tr><td id=3D"L237" class=3D"css-a4x74f"><span>237<=
+/span></td><td id=3D"LC237" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-bullet-height: 8px;
+</span></code></td></tr><tr><td id=3D"L238" class=3D"css-a4x74f"><span>238<=
+/span></td><td id=3D"LC238" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-bullet-inactive-color: #000;
+</span></code></td></tr><tr><td id=3D"L239" class=3D"css-a4x74f"><span>239<=
+/span></td><td id=3D"LC239" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-bullet-inactive-opacity: 0.2;
+</span></code></td></tr><tr><td id=3D"L240" class=3D"css-a4x74f"><span>240<=
+/span></td><td id=3D"LC240" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-bullet-opacity: 1;
+</span></code></td></tr><tr><td id=3D"L241" class=3D"css-a4x74f"><span>241<=
+/span></td><td id=3D"LC241" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-bullet-horizontal-gap: 4px;
+</span></code></td></tr><tr><td id=3D"L242" class=3D"css-a4x74f"><span>242<=
+/span></td><td id=3D"LC242" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-pagination-bullet-vertical-gap: 6px;
+</span></code></td></tr><tr><td id=3D"L243" class=3D"css-a4x74f"><span>243<=
+/span></td><td id=3D"LC243" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  */</span>
+</code></td></tr><tr><td id=3D"L244" class=3D"css-a4x74f"><span>244</span><=
+/td><td id=3D"LC244" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L245" class=3D"css-a4x74f"><span>245</span><=
+/td><td id=3D"LC245" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination</span> {
+</code></td></tr><tr><td id=3D"L246" class=3D"css-a4x74f"><span>246</span><=
+/td><td id=3D"LC246" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L247" class=3D"css-a4x74f"><span>247</span><=
+/td><td id=3D"LC247" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">text-align</span>: center;
+</code></td></tr><tr><td id=3D"L248" class=3D"css-a4x74f"><span>248</span><=
+/td><td id=3D"LC248" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transition</span>: <span class=3D"code-number">300ms</span> opacity;
+</code></td></tr><tr><td id=3D"L249" class=3D"css-a4x74f"><span>249</span><=
+/td><td id=3D"LC249" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">translate3d</span>(0=
+, 0, 0);
+</code></td></tr><tr><td id=3D"L250" class=3D"css-a4x74f"><span>250</span><=
+/td><td id=3D"LC250" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">10</span>;
+</code></td></tr><tr><td id=3D"L251" class=3D"css-a4x74f"><span>251</span><=
+/td><td id=3D"LC251" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L252" class=3D"css-a4x74f"><span>252</span><=
+/td><td id=3D"LC252" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination</span><span class=3D"hljs-selector-class">.swi=
+per-pagination-hidden</span> {
+</code></td></tr><tr><td id=3D"L253" class=3D"css-a4x74f"><span>253</span><=
+/td><td id=3D"LC253" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">opacity</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L254" class=3D"css-a4x74f"><span>254</span><=
+/td><td id=3D"LC254" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L255" class=3D"css-a4x74f"><span>255</span><=
+/td><td id=3D"LC255" class=3D"css-1dcdqdg"><code><span class=3D"code-commen=
+t">/* Common Styles */</span>
+</code></td></tr><tr><td id=3D"L256" class=3D"css-a4x74f"><span>256</span><=
+/td><td id=3D"LC256" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-fraction</span>,
+</code></td></tr><tr><td id=3D"L257" class=3D"css-a4x74f"><span>257</span><=
+/td><td id=3D"LC257" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-custom</span>,
+</code></td></tr><tr><td id=3D"L258" class=3D"css-a4x74f"><span>258</span><=
+/td><td id=3D"LC258" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span> &gt; <span class=3D"hljs-selector-class=
+">.swiper-pagination-bullets</span>,
+</code></td></tr><tr><td id=3D"L259" class=3D"css-a4x74f"><span>259</span><=
+/td><td id=3D"LC259" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets</span><span class=3D"hljs-selector-cla=
+ss">.swiper-pagination-horizontal</span> {
+</code></td></tr><tr><td id=3D"L260" class=3D"css-a4x74f"><span>260</span><=
+/td><td id=3D"LC260" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">bottom</span>: <span class=3D"code-number">10px</span>;
+</code></td></tr><tr><td id=3D"L261" class=3D"css-a4x74f"><span>261</span><=
+/td><td id=3D"LC261" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L262" class=3D"css-a4x74f"><span>262</span><=
+/td><td id=3D"LC262" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L263" class=3D"css-a4x74f"><span>263</span><=
+/td><td id=3D"LC263" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L264" class=3D"css-a4x74f"><span>264</span><=
+/td><td id=3D"LC264" class=3D"css-1dcdqdg"><code><span class=3D"code-commen=
+t">/* Bullets */</span>
+</code></td></tr><tr><td id=3D"L265" class=3D"css-a4x74f"><span>265</span><=
+/td><td id=3D"LC265" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets-dynamic</span> {
+</code></td></tr><tr><td id=3D"L266" class=3D"css-a4x74f"><span>266</span><=
+/td><td id=3D"LC266" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">overflow</span>: hidden;
+</code></td></tr><tr><td id=3D"L267" class=3D"css-a4x74f"><span>267</span><=
+/td><td id=3D"LC267" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">font-size</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L268" class=3D"css-a4x74f"><span>268</span><=
+/td><td id=3D"LC268" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L269" class=3D"css-a4x74f"><span>269</span><=
+/td><td id=3D"LC269" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-sel=
+ector-class">.swiper-pagination-bullet</span> {
+</code></td></tr><tr><td id=3D"L270" class=3D"css-a4x74f"><span>270</span><=
+/td><td id=3D"LC270" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">scale</span>(0.33);
+</code></td></tr><tr><td id=3D"L271" class=3D"css-a4x74f"><span>271</span><=
+/td><td id=3D"LC271" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: relative;
+</code></td></tr><tr><td id=3D"L272" class=3D"css-a4x74f"><span>272</span><=
+/td><td id=3D"LC272" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L273" class=3D"css-a4x74f"><span>273</span><=
+/td><td id=3D"LC273" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-sel=
+ector-class">.swiper-pagination-bullet-active</span> {
+</code></td></tr><tr><td id=3D"L274" class=3D"css-a4x74f"><span>274</span><=
+/td><td id=3D"LC274" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">scale</span>(1);
+</code></td></tr><tr><td id=3D"L275" class=3D"css-a4x74f"><span>275</span><=
+/td><td id=3D"LC275" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L276" class=3D"css-a4x74f"><span>276</span><=
+/td><td id=3D"LC276" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-sel=
+ector-class">.swiper-pagination-bullet-active-main</span> {
+</code></td></tr><tr><td id=3D"L277" class=3D"css-a4x74f"><span>277</span><=
+/td><td id=3D"LC277" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">scale</span>(1);
+</code></td></tr><tr><td id=3D"L278" class=3D"css-a4x74f"><span>278</span><=
+/td><td id=3D"LC278" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L279" class=3D"css-a4x74f"><span>279</span><=
+/td><td id=3D"LC279" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-sel=
+ector-class">.swiper-pagination-bullet-active-prev</span> {
+</code></td></tr><tr><td id=3D"L280" class=3D"css-a4x74f"><span>280</span><=
+/td><td id=3D"LC280" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">scale</span>(0.66);
+</code></td></tr><tr><td id=3D"L281" class=3D"css-a4x74f"><span>281</span><=
+/td><td id=3D"LC281" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L282" class=3D"css-a4x74f"><span>282</span><=
+/td><td id=3D"LC282" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-sel=
+ector-class">.swiper-pagination-bullet-active-prev-prev</span> {
+</code></td></tr><tr><td id=3D"L283" class=3D"css-a4x74f"><span>283</span><=
+/td><td id=3D"LC283" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">scale</span>(0.33);
+</code></td></tr><tr><td id=3D"L284" class=3D"css-a4x74f"><span>284</span><=
+/td><td id=3D"LC284" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L285" class=3D"css-a4x74f"><span>285</span><=
+/td><td id=3D"LC285" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-sel=
+ector-class">.swiper-pagination-bullet-active-next</span> {
+</code></td></tr><tr><td id=3D"L286" class=3D"css-a4x74f"><span>286</span><=
+/td><td id=3D"LC286" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">scale</span>(0.66);
+</code></td></tr><tr><td id=3D"L287" class=3D"css-a4x74f"><span>287</span><=
+/td><td id=3D"LC287" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L288" class=3D"css-a4x74f"><span>288</span><=
+/td><td id=3D"LC288" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-sel=
+ector-class">.swiper-pagination-bullet-active-next-next</span> {
+</code></td></tr><tr><td id=3D"L289" class=3D"css-a4x74f"><span>289</span><=
+/td><td id=3D"LC289" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">scale</span>(0.33);
+</code></td></tr><tr><td id=3D"L290" class=3D"css-a4x74f"><span>290</span><=
+/td><td id=3D"LC290" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L291" class=3D"css-a4x74f"><span>291</span><=
+/td><td id=3D"LC291" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullet</span> {
+</code></td></tr><tr><td id=3D"L292" class=3D"css-a4x74f"><span>292</span><=
+/td><td id=3D"LC292" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-built_in">var</span>(--swiper-pagi=
+nation-bullet-width, var(--swiper-pagination-bullet-size, 8px));
+</code></td></tr><tr><td id=3D"L293" class=3D"css-a4x74f"><span>293</span><=
+/td><td id=3D"LC293" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-built_in">var</span>(--swiper-pag=
+ination-bullet-height, var(--swiper-pagination-bullet-size, 8px));
+</code></td></tr><tr><td id=3D"L294" class=3D"css-a4x74f"><span>294</span><=
+/td><td id=3D"LC294" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: inline-block;
+</code></td></tr><tr><td id=3D"L295" class=3D"css-a4x74f"><span>295</span><=
+/td><td id=3D"LC295" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">border-radius</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L296" class=3D"css-a4x74f"><span>296</span><=
+/td><td id=3D"LC296" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background</span>: <span class=3D"code-built_in">var</span>(--swiper=
+-pagination-bullet-inactive-color, #000);
+</code></td></tr><tr><td id=3D"L297" class=3D"css-a4x74f"><span>297</span><=
+/td><td id=3D"LC297" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">opacity</span>: <span class=3D"code-built_in">var</span>(--swiper-pa=
+gination-bullet-inactive-opacity, 0.2);
+</code></td></tr><tr><td id=3D"L298" class=3D"css-a4x74f"><span>298</span><=
+/td><td id=3D"LC298" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L299" class=3D"css-a4x74f"><span>299</span><=
+/td><td id=3D"LC299" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-tag">button</span><span class=3D"hljs-selector-class">.swiper-pagination=
+-bullet</span> {
+</code></td></tr><tr><td id=3D"L300" class=3D"css-a4x74f"><span>300</span><=
+/td><td id=3D"LC300" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">border</span>: none;
+</code></td></tr><tr><td id=3D"L301" class=3D"css-a4x74f"><span>301</span><=
+/td><td id=3D"LC301" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L302" class=3D"css-a4x74f"><span>302</span><=
+/td><td id=3D"LC302" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">padding</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L303" class=3D"css-a4x74f"><span>303</span><=
+/td><td id=3D"LC303" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">box-shadow</span>: none;
+</code></td></tr><tr><td id=3D"L304" class=3D"css-a4x74f"><span>304</span><=
+/td><td id=3D"LC304" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-webkit-appearance</span>: none;
+</code></td></tr><tr><td id=3D"L305" class=3D"css-a4x74f"><span>305</span><=
+/td><td id=3D"LC305" class=3D"css-1dcdqdg"><code>          <span class=3D"c=
+ode-attribute">appearance</span>: none;
+</code></td></tr><tr><td id=3D"L306" class=3D"css-a4x74f"><span>306</span><=
+/td><td id=3D"LC306" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L307" class=3D"css-a4x74f"><span>307</span><=
+/td><td id=3D"LC307" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-clickable</span> <span class=3D"hljs-selector-=
+class">.swiper-pagination-bullet</span> {
+</code></td></tr><tr><td id=3D"L308" class=3D"css-a4x74f"><span>308</span><=
+/td><td id=3D"LC308" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">cursor</span>: pointer;
+</code></td></tr><tr><td id=3D"L309" class=3D"css-a4x74f"><span>309</span><=
+/td><td id=3D"LC309" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L310" class=3D"css-a4x74f"><span>310</span><=
+/td><td id=3D"LC310" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullet</span><span class=3D"hljs-selector-pseu=
+do">:only-child</span> {
+</code></td></tr><tr><td id=3D"L311" class=3D"css-a4x74f"><span>311</span><=
+/td><td id=3D"LC311" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: none <span class=3D"code-meta">!important</span>;
+</code></td></tr><tr><td id=3D"L312" class=3D"css-a4x74f"><span>312</span><=
+/td><td id=3D"LC312" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L313" class=3D"css-a4x74f"><span>313</span><=
+/td><td id=3D"LC313" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-bullet-active</span> {
+</code></td></tr><tr><td id=3D"L314" class=3D"css-a4x74f"><span>314</span><=
+/td><td id=3D"LC314" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">opacity</span>: <span class=3D"code-built_in">var</span>(--swiper-pa=
+gination-bullet-opacity, 1);
+</code></td></tr><tr><td id=3D"L315" class=3D"css-a4x74f"><span>315</span><=
+/td><td id=3D"LC315" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background</span>: <span class=3D"code-built_in">var</span>(--swiper=
+-pagination-color, var(--swiper-theme-color));
+</code></td></tr><tr><td id=3D"L316" class=3D"css-a4x74f"><span>316</span><=
+/td><td id=3D"LC316" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L317" class=3D"css-a4x74f"><span>317</span><=
+/td><td id=3D"LC317" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-vertical</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-pagination-bullets</span>,
+</code></td></tr><tr><td id=3D"L318" class=3D"css-a4x74f"><span>318</span><=
+/td><td id=3D"LC318" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-vertical</span><span class=3D"hljs-selector-cl=
+ass">.swiper-pagination-bullets</span> {
+</code></td></tr><tr><td id=3D"L319" class=3D"css-a4x74f"><span>319</span><=
+/td><td id=3D"LC319" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">right</span>: <span class=3D"code-number">10px</span>;
+</code></td></tr><tr><td id=3D"L320" class=3D"css-a4x74f"><span>320</span><=
+/td><td id=3D"LC320" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L321" class=3D"css-a4x74f"><span>321</span><=
+/td><td id=3D"LC321" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">translate3d</span>(0=
+px, -50%, 0);
+</code></td></tr><tr><td id=3D"L322" class=3D"css-a4x74f"><span>322</span><=
+/td><td id=3D"LC322" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L323" class=3D"css-a4x74f"><span>323</span><=
+/td><td id=3D"LC323" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-vertical</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-pagination-bullets</span> <span class=3D"hljs-selector-class">.swip=
+er-pagination-bullet</span>,
+</code></td></tr><tr><td id=3D"L324" class=3D"css-a4x74f"><span>324</span><=
+/td><td id=3D"LC324" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-vertical</span><span class=3D"hljs-selector-cl=
+ass">.swiper-pagination-bullets</span> <span class=3D"hljs-selector-class">=
+.swiper-pagination-bullet</span> {
+</code></td></tr><tr><td id=3D"L325" class=3D"css-a4x74f"><span>325</span><=
+/td><td id=3D"LC325" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin</span>: <span class=3D"code-built_in">var</span>(--swiper-pag=
+ination-bullet-vertical-gap, 6px) <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L326" class=3D"css-a4x74f"><span>326</span><=
+/td><td id=3D"LC326" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: block;
+</code></td></tr><tr><td id=3D"L327" class=3D"css-a4x74f"><span>327</span><=
+/td><td id=3D"LC327" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L328" class=3D"css-a4x74f"><span>328</span><=
+/td><td id=3D"LC328" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-vertical</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-pagination-bullets</span><span class=3D"hljs-selector-class">.swipe=
+r-pagination-bullets-dynamic</span>,
+</code></td></tr><tr><td id=3D"L329" class=3D"css-a4x74f"><span>329</span><=
+/td><td id=3D"LC329" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-vertical</span><span class=3D"hljs-selector-cl=
+ass">.swiper-pagination-bullets</span><span class=3D"hljs-selector-class">.=
+swiper-pagination-bullets-dynamic</span> {
+</code></td></tr><tr><td id=3D"L330" class=3D"css-a4x74f"><span>330</span><=
+/td><td id=3D"LC330" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L331" class=3D"css-a4x74f"><span>331</span><=
+/td><td id=3D"LC331" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">translateY</span>(-5=
+0%);
+</code></td></tr><tr><td id=3D"L332" class=3D"css-a4x74f"><span>332</span><=
+/td><td id=3D"LC332" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">8px</span>;
+</code></td></tr><tr><td id=3D"L333" class=3D"css-a4x74f"><span>333</span><=
+/td><td id=3D"LC333" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L334" class=3D"css-a4x74f"><span>334</span><=
+/td><td id=3D"LC334" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-vertical</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-pagination-bullets</span><span class=3D"hljs-selector-class">.swipe=
+r-pagination-bullets-dynamic</span> <span class=3D"hljs-selector-class">.sw=
+iper-pagination-bullet</span>,
+</code></td></tr><tr><td id=3D"L335" class=3D"css-a4x74f"><span>335</span><=
+/td><td id=3D"LC335" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-vertical</span><span class=3D"hljs-selector-cl=
+ass">.swiper-pagination-bullets</span><span class=3D"hljs-selector-class">.=
+swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-selector-class=
+">.swiper-pagination-bullet</span> {
+</code></td></tr><tr><td id=3D"L336" class=3D"css-a4x74f"><span>336</span><=
+/td><td id=3D"LC336" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: inline-block;
+</code></td></tr><tr><td id=3D"L337" class=3D"css-a4x74f"><span>337</span><=
+/td><td id=3D"LC337" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transition</span>: <span class=3D"code-number">200ms</span> transfor=
+m, <span class=3D"code-number">200ms</span> top;
+</code></td></tr><tr><td id=3D"L338" class=3D"css-a4x74f"><span>338</span><=
+/td><td id=3D"LC338" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L339" class=3D"css-a4x74f"><span>339</span><=
+/td><td id=3D"LC339" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span> &gt; <span class=3D"hljs-selector-class=
+">.swiper-pagination-bullets</span> <span class=3D"hljs-selector-class">.sw=
+iper-pagination-bullet</span>,
+</code></td></tr><tr><td id=3D"L340" class=3D"css-a4x74f"><span>340</span><=
+/td><td id=3D"LC340" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-horizontal</span><span class=3D"hljs-selector-=
+class">.swiper-pagination-bullets</span> <span class=3D"hljs-selector-class=
+">.swiper-pagination-bullet</span> {
+</code></td></tr><tr><td id=3D"L341" class=3D"css-a4x74f"><span>341</span><=
+/td><td id=3D"LC341" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin</span>: <span class=3D"code-number">0</span> <span class=3D"c=
+ode-built_in">var</span>(--swiper-pagination-bullet-horizontal-gap, 4px);
+</code></td></tr><tr><td id=3D"L342" class=3D"css-a4x74f"><span>342</span><=
+/td><td id=3D"LC342" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L343" class=3D"css-a4x74f"><span>343</span><=
+/td><td id=3D"LC343" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span> &gt; <span class=3D"hljs-selector-class=
+">.swiper-pagination-bullets</span><span class=3D"hljs-selector-class">.swi=
+per-pagination-bullets-dynamic</span>,
+</code></td></tr><tr><td id=3D"L344" class=3D"css-a4x74f"><span>344</span><=
+/td><td id=3D"LC344" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-horizontal</span><span class=3D"hljs-selector-=
+class">.swiper-pagination-bullets</span><span class=3D"hljs-selector-class"=
+>.swiper-pagination-bullets-dynamic</span> {
+</code></td></tr><tr><td id=3D"L345" class=3D"css-a4x74f"><span>345</span><=
+/td><td id=3D"LC345" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L346" class=3D"css-a4x74f"><span>346</span><=
+/td><td id=3D"LC346" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">translateX</span>(-5=
+0%);
+</code></td></tr><tr><td id=3D"L347" class=3D"css-a4x74f"><span>347</span><=
+/td><td id=3D"LC347" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">white-space</span>: nowrap;
+</code></td></tr><tr><td id=3D"L348" class=3D"css-a4x74f"><span>348</span><=
+/td><td id=3D"LC348" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L349" class=3D"css-a4x74f"><span>349</span><=
+/td><td id=3D"LC349" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span> &gt; <span class=3D"hljs-selector-class=
+">.swiper-pagination-bullets</span><span class=3D"hljs-selector-class">.swi=
+per-pagination-bullets-dynamic</span> <span class=3D"hljs-selector-class">.=
+swiper-pagination-bullet</span>,
+</code></td></tr><tr><td id=3D"L350" class=3D"css-a4x74f"><span>350</span><=
+/td><td id=3D"LC350" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-horizontal</span><span class=3D"hljs-selector-=
+class">.swiper-pagination-bullets</span><span class=3D"hljs-selector-class"=
+>.swiper-pagination-bullets-dynamic</span> <span class=3D"hljs-selector-cla=
+ss">.swiper-pagination-bullet</span> {
+</code></td></tr><tr><td id=3D"L351" class=3D"css-a4x74f"><span>351</span><=
+/td><td id=3D"LC351" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transition</span>: <span class=3D"code-number">200ms</span> transfor=
+m, <span class=3D"code-number">200ms</span> left;
+</code></td></tr><tr><td id=3D"L352" class=3D"css-a4x74f"><span>352</span><=
+/td><td id=3D"LC352" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L353" class=3D"css-a4x74f"><span>353</span><=
+/td><td id=3D"LC353" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span><span class=3D"hljs-selector-class">.swi=
+per-rtl</span> &gt; <span class=3D"hljs-selector-class">.swiper-pagination-=
+bullets-dynamic</span> <span class=3D"hljs-selector-class">.swiper-paginati=
+on-bullet</span> {
+</code></td></tr><tr><td id=3D"L354" class=3D"css-a4x74f"><span>354</span><=
+/td><td id=3D"LC354" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transition</span>: <span class=3D"code-number">200ms</span> transfor=
+m, <span class=3D"code-number">200ms</span> right;
+</code></td></tr><tr><td id=3D"L355" class=3D"css-a4x74f"><span>355</span><=
+/td><td id=3D"LC355" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L356" class=3D"css-a4x74f"><span>356</span><=
+/td><td id=3D"LC356" class=3D"css-1dcdqdg"><code><span class=3D"code-commen=
+t">/* Progress */</span>
+</code></td></tr><tr><td id=3D"L357" class=3D"css-a4x74f"><span>357</span><=
+/td><td id=3D"LC357" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-progressbar</span> {
+</code></td></tr><tr><td id=3D"L358" class=3D"css-a4x74f"><span>358</span><=
+/td><td id=3D"LC358" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background</span>: <span class=3D"code-built_in">rgba</span>(0, 0, 0=
+, 0.25);
+</code></td></tr><tr><td id=3D"L359" class=3D"css-a4x74f"><span>359</span><=
+/td><td id=3D"LC359" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L360" class=3D"css-a4x74f"><span>360</span><=
+/td><td id=3D"LC360" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L361" class=3D"css-a4x74f"><span>361</span><=
+/td><td id=3D"LC361" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-progressbar</span> <span class=3D"hljs-selecto=
+r-class">.swiper-pagination-progressbar-fill</span> {
+</code></td></tr><tr><td id=3D"L362" class=3D"css-a4x74f"><span>362</span><=
+/td><td id=3D"LC362" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background</span>: <span class=3D"code-built_in">var</span>(--swiper=
+-pagination-color, var(--swiper-theme-color));
+</code></td></tr><tr><td id=3D"L363" class=3D"css-a4x74f"><span>363</span><=
+/td><td id=3D"LC363" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L364" class=3D"css-a4x74f"><span>364</span><=
+/td><td id=3D"LC364" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L365" class=3D"css-a4x74f"><span>365</span><=
+/td><td id=3D"LC365" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L366" class=3D"css-a4x74f"><span>366</span><=
+/td><td id=3D"LC366" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L367" class=3D"css-a4x74f"><span>367</span><=
+/td><td id=3D"LC367" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L368" class=3D"css-a4x74f"><span>368</span><=
+/td><td id=3D"LC368" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform</span>: <span class=3D"code-built_in">scale</span>(0);
+</code></td></tr><tr><td id=3D"L369" class=3D"css-a4x74f"><span>369</span><=
+/td><td id=3D"LC369" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform-origin</span>: left top;
+</code></td></tr><tr><td id=3D"L370" class=3D"css-a4x74f"><span>370</span><=
+/td><td id=3D"LC370" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L371" class=3D"css-a4x74f"><span>371</span><=
+/td><td id=3D"LC371" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-rtl</span> <span class=3D"hljs-selector-class">.swiper-pa=
+gination-progressbar</span> <span class=3D"hljs-selector-class">.swiper-pag=
+ination-progressbar-fill</span> {
+</code></td></tr><tr><td id=3D"L372" class=3D"css-a4x74f"><span>372</span><=
+/td><td id=3D"LC372" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform-origin</span>: right top;
+</code></td></tr><tr><td id=3D"L373" class=3D"css-a4x74f"><span>373</span><=
+/td><td id=3D"LC373" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L374" class=3D"css-a4x74f"><span>374</span><=
+/td><td id=3D"LC374" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span> &gt; <span class=3D"hljs-selector-class=
+">.swiper-pagination-progressbar</span>,
+</code></td></tr><tr><td id=3D"L375" class=3D"css-a4x74f"><span>375</span><=
+/td><td id=3D"LC375" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-progressbar</span><span class=3D"hljs-selector=
+-class">.swiper-pagination-horizontal</span>,
+</code></td></tr><tr><td id=3D"L376" class=3D"css-a4x74f"><span>376</span><=
+/td><td id=3D"LC376" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-vertical</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-pagination-progressbar</span><span class=3D"hljs-selector-class">.s=
+wiper-pagination-progressbar-opposite</span>,
+</code></td></tr><tr><td id=3D"L377" class=3D"css-a4x74f"><span>377</span><=
+/td><td id=3D"LC377" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-progressbar</span><span class=3D"hljs-selector=
+-class">.swiper-pagination-vertical</span><span class=3D"hljs-selector-clas=
+s">.swiper-pagination-progressbar-opposite</span> {
+</code></td></tr><tr><td id=3D"L378" class=3D"css-a4x74f"><span>378</span><=
+/td><td id=3D"LC378" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L379" class=3D"css-a4x74f"><span>379</span><=
+/td><td id=3D"LC379" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">4px</span>;
+</code></td></tr><tr><td id=3D"L380" class=3D"css-a4x74f"><span>380</span><=
+/td><td id=3D"LC380" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L381" class=3D"css-a4x74f"><span>381</span><=
+/td><td id=3D"LC381" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L382" class=3D"css-a4x74f"><span>382</span><=
+/td><td id=3D"LC382" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L383" class=3D"css-a4x74f"><span>383</span><=
+/td><td id=3D"LC383" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-vertical</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-pagination-progressbar</span>,
+</code></td></tr><tr><td id=3D"L384" class=3D"css-a4x74f"><span>384</span><=
+/td><td id=3D"LC384" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-progressbar</span><span class=3D"hljs-selector=
+-class">.swiper-pagination-vertical</span>,
+</code></td></tr><tr><td id=3D"L385" class=3D"css-a4x74f"><span>385</span><=
+/td><td id=3D"LC385" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span> &gt; <span class=3D"hljs-selector-class=
+">.swiper-pagination-progressbar</span><span class=3D"hljs-selector-class">=
+.swiper-pagination-progressbar-opposite</span>,
+</code></td></tr><tr><td id=3D"L386" class=3D"css-a4x74f"><span>386</span><=
+/td><td id=3D"LC386" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-progressbar</span><span class=3D"hljs-selector=
+-class">.swiper-pagination-horizontal</span><span class=3D"hljs-selector-cl=
+ass">.swiper-pagination-progressbar-opposite</span> {
+</code></td></tr><tr><td id=3D"L387" class=3D"css-a4x74f"><span>387</span><=
+/td><td id=3D"LC387" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">4px</span>;
+</code></td></tr><tr><td id=3D"L388" class=3D"css-a4x74f"><span>388</span><=
+/td><td id=3D"LC388" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L389" class=3D"css-a4x74f"><span>389</span><=
+/td><td id=3D"LC389" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L390" class=3D"css-a4x74f"><span>390</span><=
+/td><td id=3D"LC390" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L391" class=3D"css-a4x74f"><span>391</span><=
+/td><td id=3D"LC391" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L392" class=3D"css-a4x74f"><span>392</span><=
+/td><td id=3D"LC392" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-pagination-lock</span> {
+</code></td></tr><tr><td id=3D"L393" class=3D"css-a4x74f"><span>393</span><=
+/td><td id=3D"LC393" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: none;
+</code></td></tr><tr><td id=3D"L394" class=3D"css-a4x74f"><span>394</span><=
+/td><td id=3D"LC394" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L395" class=3D"css-a4x74f"><span>395</span><=
+/td><td id=3D"LC395" class=3D"css-1dcdqdg"><code><span class=3D"code-commen=
+t">/* Scrollbar */</span>
+</code></td></tr><tr><td id=3D"L396" class=3D"css-a4x74f"><span>396</span><=
+/td><td id=3D"LC396" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-scrollbar</span> {
+</code></td></tr><tr><td id=3D"L397" class=3D"css-a4x74f"><span>397</span><=
+/td><td id=3D"LC397" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">border-radius</span>: <span class=3D"code-number">10px</span>;
+</code></td></tr><tr><td id=3D"L398" class=3D"css-a4x74f"><span>398</span><=
+/td><td id=3D"LC398" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: relative;
+</code></td></tr><tr><td id=3D"L399" class=3D"css-a4x74f"><span>399</span><=
+/td><td id=3D"LC399" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-ms-touch-action</span>: none;
+</code></td></tr><tr><td id=3D"L400" class=3D"css-a4x74f"><span>400</span><=
+/td><td id=3D"LC400" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background</span>: <span class=3D"code-built_in">rgba</span>(0, 0, 0=
+, 0.1);
+</code></td></tr><tr><td id=3D"L401" class=3D"css-a4x74f"><span>401</span><=
+/td><td id=3D"LC401" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L402" class=3D"css-a4x74f"><span>402</span><=
+/td><td id=3D"LC402" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-horizontal</span> &gt; <span class=3D"hljs-selector-class=
+">.swiper-scrollbar</span> {
+</code></td></tr><tr><td id=3D"L403" class=3D"css-a4x74f"><span>403</span><=
+/td><td id=3D"LC403" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L404" class=3D"css-a4x74f"><span>404</span><=
+/td><td id=3D"LC404" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">1%</span>;
+</code></td></tr><tr><td id=3D"L405" class=3D"css-a4x74f"><span>405</span><=
+/td><td id=3D"LC405" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">bottom</span>: <span class=3D"code-number">3px</span>;
+</code></td></tr><tr><td id=3D"L406" class=3D"css-a4x74f"><span>406</span><=
+/td><td id=3D"LC406" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">50</span>;
+</code></td></tr><tr><td id=3D"L407" class=3D"css-a4x74f"><span>407</span><=
+/td><td id=3D"LC407" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">5px</span>;
+</code></td></tr><tr><td id=3D"L408" class=3D"css-a4x74f"><span>408</span><=
+/td><td id=3D"LC408" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">98%</span>;
+</code></td></tr><tr><td id=3D"L409" class=3D"css-a4x74f"><span>409</span><=
+/td><td id=3D"LC409" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L410" class=3D"css-a4x74f"><span>410</span><=
+/td><td id=3D"LC410" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-vertical</span> &gt; <span class=3D"hljs-selector-class">=
+.swiper-scrollbar</span> {
+</code></td></tr><tr><td id=3D"L411" class=3D"css-a4x74f"><span>411</span><=
+/td><td id=3D"LC411" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L412" class=3D"css-a4x74f"><span>412</span><=
+/td><td id=3D"LC412" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">right</span>: <span class=3D"code-number">3px</span>;
+</code></td></tr><tr><td id=3D"L413" class=3D"css-a4x74f"><span>413</span><=
+/td><td id=3D"LC413" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">1%</span>;
+</code></td></tr><tr><td id=3D"L414" class=3D"css-a4x74f"><span>414</span><=
+/td><td id=3D"LC414" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">50</span>;
+</code></td></tr><tr><td id=3D"L415" class=3D"css-a4x74f"><span>415</span><=
+/td><td id=3D"LC415" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">5px</span>;
+</code></td></tr><tr><td id=3D"L416" class=3D"css-a4x74f"><span>416</span><=
+/td><td id=3D"LC416" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">98%</span>;
+</code></td></tr><tr><td id=3D"L417" class=3D"css-a4x74f"><span>417</span><=
+/td><td id=3D"LC417" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L418" class=3D"css-a4x74f"><span>418</span><=
+/td><td id=3D"LC418" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-scrollbar-drag</span> {
+</code></td></tr><tr><td id=3D"L419" class=3D"css-a4x74f"><span>419</span><=
+/td><td id=3D"LC419" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L420" class=3D"css-a4x74f"><span>420</span><=
+/td><td id=3D"LC420" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L421" class=3D"css-a4x74f"><span>421</span><=
+/td><td id=3D"LC421" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: relative;
+</code></td></tr><tr><td id=3D"L422" class=3D"css-a4x74f"><span>422</span><=
+/td><td id=3D"LC422" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background</span>: <span class=3D"code-built_in">rgba</span>(0, 0, 0=
+, 0.5);
+</code></td></tr><tr><td id=3D"L423" class=3D"css-a4x74f"><span>423</span><=
+/td><td id=3D"LC423" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">border-radius</span>: <span class=3D"code-number">10px</span>;
+</code></td></tr><tr><td id=3D"L424" class=3D"css-a4x74f"><span>424</span><=
+/td><td id=3D"LC424" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L425" class=3D"css-a4x74f"><span>425</span><=
+/td><td id=3D"LC425" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L426" class=3D"css-a4x74f"><span>426</span><=
+/td><td id=3D"LC426" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L427" class=3D"css-a4x74f"><span>427</span><=
+/td><td id=3D"LC427" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-scrollbar-cursor-drag</span> {
+</code></td></tr><tr><td id=3D"L428" class=3D"css-a4x74f"><span>428</span><=
+/td><td id=3D"LC428" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">cursor</span>: move;
+</code></td></tr><tr><td id=3D"L429" class=3D"css-a4x74f"><span>429</span><=
+/td><td id=3D"LC429" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L430" class=3D"css-a4x74f"><span>430</span><=
+/td><td id=3D"LC430" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-scrollbar-lock</span> {
+</code></td></tr><tr><td id=3D"L431" class=3D"css-a4x74f"><span>431</span><=
+/td><td id=3D"LC431" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: none;
+</code></td></tr><tr><td id=3D"L432" class=3D"css-a4x74f"><span>432</span><=
+/td><td id=3D"LC432" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L433" class=3D"css-a4x74f"><span>433</span><=
+/td><td id=3D"LC433" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-zoom-container</span> {
+</code></td></tr><tr><td id=3D"L434" class=3D"css-a4x74f"><span>434</span><=
+/td><td id=3D"LC434" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L435" class=3D"css-a4x74f"><span>435</span><=
+/td><td id=3D"LC435" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L436" class=3D"css-a4x74f"><span>436</span><=
+/td><td id=3D"LC436" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">display</span>: flex;
+</code></td></tr><tr><td id=3D"L437" class=3D"css-a4x74f"><span>437</span><=
+/td><td id=3D"LC437" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">justify-content</span>: center;
+</code></td></tr><tr><td id=3D"L438" class=3D"css-a4x74f"><span>438</span><=
+/td><td id=3D"LC438" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">align-items</span>: center;
+</code></td></tr><tr><td id=3D"L439" class=3D"css-a4x74f"><span>439</span><=
+/td><td id=3D"LC439" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">text-align</span>: center;
+</code></td></tr><tr><td id=3D"L440" class=3D"css-a4x74f"><span>440</span><=
+/td><td id=3D"LC440" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L441" class=3D"css-a4x74f"><span>441</span><=
+/td><td id=3D"LC441" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-zoom-container</span> &gt; <span class=3D"hljs-selector-t=
+ag">img</span>,
+</code></td></tr><tr><td id=3D"L442" class=3D"css-a4x74f"><span>442</span><=
+/td><td id=3D"LC442" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-zoom-container</span> &gt; <span class=3D"hljs-selector-t=
+ag">svg</span>,
+</code></td></tr><tr><td id=3D"L443" class=3D"css-a4x74f"><span>443</span><=
+/td><td id=3D"LC443" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-zoom-container</span> &gt; <span class=3D"hljs-selector-t=
+ag">canvas</span> {
+</code></td></tr><tr><td id=3D"L444" class=3D"css-a4x74f"><span>444</span><=
+/td><td id=3D"LC444" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">max-width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L445" class=3D"css-a4x74f"><span>445</span><=
+/td><td id=3D"LC445" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">max-height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L446" class=3D"css-a4x74f"><span>446</span><=
+/td><td id=3D"LC446" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">object-fit</span>: contain;
+</code></td></tr><tr><td id=3D"L447" class=3D"css-a4x74f"><span>447</span><=
+/td><td id=3D"LC447" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L448" class=3D"css-a4x74f"><span>448</span><=
+/td><td id=3D"LC448" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-slide-zoomed</span> {
+</code></td></tr><tr><td id=3D"L449" class=3D"css-a4x74f"><span>449</span><=
+/td><td id=3D"LC449" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">cursor</span>: move;
+</code></td></tr><tr><td id=3D"L450" class=3D"css-a4x74f"><span>450</span><=
+/td><td id=3D"LC450" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L451" class=3D"css-a4x74f"><span>451</span><=
+/td><td id=3D"LC451" class=3D"css-1dcdqdg"><code><span class=3D"code-commen=
+t">/* Preloader */</span>
+</code></td></tr><tr><td id=3D"L452" class=3D"css-a4x74f"><span>452</span><=
+/td><td id=3D"LC452" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-pseudo">:root</span> {
+</code></td></tr><tr><td id=3D"L453" class=3D"css-a4x74f"><span>453</span><=
+/td><td id=3D"LC453" class=3D"css-1dcdqdg"><code>  <span class=3D"code-comm=
+ent">/*
+</span></code></td></tr><tr><td id=3D"L454" class=3D"css-a4x74f"><span>454<=
+/span></td><td id=3D"LC454" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  --swiper-preloader-color: var(--swiper-theme-color);
+</span></code></td></tr><tr><td id=3D"L455" class=3D"css-a4x74f"><span>455<=
+/span></td><td id=3D"LC455" class=3D"css-1dcdqdg"><code><span class=3D"code=
+-comment">  */</span>
+</code></td></tr><tr><td id=3D"L456" class=3D"css-a4x74f"><span>456</span><=
+/td><td id=3D"LC456" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L457" class=3D"css-a4x74f"><span>457</span><=
+/td><td id=3D"LC457" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-lazy-preloader</span> {
+</code></td></tr><tr><td id=3D"L458" class=3D"css-a4x74f"><span>458</span><=
+/td><td id=3D"LC458" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">42px</span>;
+</code></td></tr><tr><td id=3D"L459" class=3D"css-a4x74f"><span>459</span><=
+/td><td id=3D"LC459" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">42px</span>;
+</code></td></tr><tr><td id=3D"L460" class=3D"css-a4x74f"><span>460</span><=
+/td><td id=3D"LC460" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L461" class=3D"css-a4x74f"><span>461</span><=
+/td><td id=3D"LC461" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L462" class=3D"css-a4x74f"><span>462</span><=
+/td><td id=3D"LC462" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L463" class=3D"css-a4x74f"><span>463</span><=
+/td><td id=3D"LC463" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin-left</span>: -<span class=3D"code-number">21px</span>;
+</code></td></tr><tr><td id=3D"L464" class=3D"css-a4x74f"><span>464</span><=
+/td><td id=3D"LC464" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin-top</span>: -<span class=3D"code-number">21px</span>;
+</code></td></tr><tr><td id=3D"L465" class=3D"css-a4x74f"><span>465</span><=
+/td><td id=3D"LC465" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">10</span>;
+</code></td></tr><tr><td id=3D"L466" class=3D"css-a4x74f"><span>466</span><=
+/td><td id=3D"LC466" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform-origin</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L467" class=3D"css-a4x74f"><span>467</span><=
+/td><td id=3D"LC467" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">animation</span>: swiper-preloader-spin <span class=3D"code-number">=
+1s</span> infinite linear;
+</code></td></tr><tr><td id=3D"L468" class=3D"css-a4x74f"><span>468</span><=
+/td><td id=3D"LC468" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">box-sizing</span>: border-box;
+</code></td></tr><tr><td id=3D"L469" class=3D"css-a4x74f"><span>469</span><=
+/td><td id=3D"LC469" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">border</span>: <span class=3D"code-number">4px</span> solid <span cl=
+ass=3D"code-built_in">var</span>(--swiper-preloader-color, var(--swiper-the=
+me-color));
+</code></td></tr><tr><td id=3D"L470" class=3D"css-a4x74f"><span>470</span><=
+/td><td id=3D"LC470" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">border-radius</span>: <span class=3D"code-number">50%</span>;
+</code></td></tr><tr><td id=3D"L471" class=3D"css-a4x74f"><span>471</span><=
+/td><td id=3D"LC471" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">border-top-color</span>: transparent;
+</code></td></tr><tr><td id=3D"L472" class=3D"css-a4x74f"><span>472</span><=
+/td><td id=3D"LC472" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L473" class=3D"css-a4x74f"><span>473</span><=
+/td><td id=3D"LC473" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-lazy-preloader-white</span> {
+</code></td></tr><tr><td id=3D"L474" class=3D"css-a4x74f"><span>474</span><=
+/td><td id=3D"LC474" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">--swiper-preloader-color</span>: <span class=3D"code-number">#fff</s=
+pan>;
+</code></td></tr><tr><td id=3D"L475" class=3D"css-a4x74f"><span>475</span><=
+/td><td id=3D"LC475" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L476" class=3D"css-a4x74f"><span>476</span><=
+/td><td id=3D"LC476" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-lazy-preloader-black</span> {
+</code></td></tr><tr><td id=3D"L477" class=3D"css-a4x74f"><span>477</span><=
+/td><td id=3D"LC477" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">--swiper-preloader-color</span>: <span class=3D"code-number">#000</s=
+pan>;
+</code></td></tr><tr><td id=3D"L478" class=3D"css-a4x74f"><span>478</span><=
+/td><td id=3D"LC478" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L479" class=3D"css-a4x74f"><span>479</span><=
+/td><td id=3D"LC479" class=3D"css-1dcdqdg"><code>@<span class=3D"code-keywo=
+rd">keyframes</span> swiper-preloader-spin {
+</code></td></tr><tr><td id=3D"L480" class=3D"css-a4x74f"><span>480</span><=
+/td><td id=3D"LC480" class=3D"css-1dcdqdg"><code>  100% {
+</code></td></tr><tr><td id=3D"L481" class=3D"css-a4x74f"><span>481</span><=
+/td><td id=3D"LC481" class=3D"css-1dcdqdg"><code>    <span class=3D"code-at=
+tribute">transform</span>: <span class=3D"code-built_in">rotate</span>(360d=
+eg);
+</code></td></tr><tr><td id=3D"L482" class=3D"css-a4x74f"><span>482</span><=
+/td><td id=3D"LC482" class=3D"css-1dcdqdg"><code>  }
+</code></td></tr><tr><td id=3D"L483" class=3D"css-a4x74f"><span>483</span><=
+/td><td id=3D"LC483" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L484" class=3D"css-a4x74f"><span>484</span><=
+/td><td id=3D"LC484" class=3D"css-1dcdqdg"><code><span class=3D"code-commen=
+t">/* a11y */</span>
+</code></td></tr><tr><td id=3D"L485" class=3D"css-a4x74f"><span>485</span><=
+/td><td id=3D"LC485" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper</span> <span class=3D"hljs-selector-class">.swiper-notifi=
+cation</span> {
+</code></td></tr><tr><td id=3D"L486" class=3D"css-a4x74f"><span>486</span><=
+/td><td id=3D"LC486" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L487" class=3D"css-a4x74f"><span>487</span><=
+/td><td id=3D"LC487" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L488" class=3D"css-a4x74f"><span>488</span><=
+/td><td id=3D"LC488" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L489" class=3D"css-a4x74f"><span>489</span><=
+/td><td id=3D"LC489" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L490" class=3D"css-a4x74f"><span>490</span><=
+/td><td id=3D"LC490" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">opacity</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L491" class=3D"css-a4x74f"><span>491</span><=
+/td><td id=3D"LC491" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: -<span class=3D"code-number">1000</span>;
+</code></td></tr><tr><td id=3D"L492" class=3D"css-a4x74f"><span>492</span><=
+/td><td id=3D"LC492" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L493" class=3D"css-a4x74f"><span>493</span><=
+/td><td id=3D"LC493" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-free-mode</span> &gt; <span class=3D"hljs-selector-class"=
+>.swiper-wrapper</span> {
+</code></td></tr><tr><td id=3D"L494" class=3D"css-a4x74f"><span>494</span><=
+/td><td id=3D"LC494" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transition-timing-function</span>: ease-out;
+</code></td></tr><tr><td id=3D"L495" class=3D"css-a4x74f"><span>495</span><=
+/td><td id=3D"LC495" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">margin</span>: <span class=3D"code-number">0</span> auto;
+</code></td></tr><tr><td id=3D"L496" class=3D"css-a4x74f"><span>496</span><=
+/td><td id=3D"LC496" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L497" class=3D"css-a4x74f"><span>497</span><=
+/td><td id=3D"LC497" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-grid</span> &gt; <span class=3D"hljs-selector-class">.swi=
+per-wrapper</span> {
+</code></td></tr><tr><td id=3D"L498" class=3D"css-a4x74f"><span>498</span><=
+/td><td id=3D"LC498" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">flex-wrap</span>: wrap;
+</code></td></tr><tr><td id=3D"L499" class=3D"css-a4x74f"><span>499</span><=
+/td><td id=3D"LC499" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L500" class=3D"css-a4x74f"><span>500</span><=
+/td><td id=3D"LC500" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-grid-column</span> &gt; <span class=3D"hljs-selector-clas=
+s">.swiper-wrapper</span> {
+</code></td></tr><tr><td id=3D"L501" class=3D"css-a4x74f"><span>501</span><=
+/td><td id=3D"LC501" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">flex-wrap</span>: wrap;
+</code></td></tr><tr><td id=3D"L502" class=3D"css-a4x74f"><span>502</span><=
+/td><td id=3D"LC502" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">flex-direction</span>: column;
+</code></td></tr><tr><td id=3D"L503" class=3D"css-a4x74f"><span>503</span><=
+/td><td id=3D"LC503" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L504" class=3D"css-a4x74f"><span>504</span><=
+/td><td id=3D"LC504" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-fade</span><span class=3D"hljs-selector-class">.swiper-fr=
+ee-mode</span> <span class=3D"hljs-selector-class">.swiper-slide</span> {
+</code></td></tr><tr><td id=3D"L505" class=3D"css-a4x74f"><span>505</span><=
+/td><td id=3D"LC505" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transition-timing-function</span>: ease-out;
+</code></td></tr><tr><td id=3D"L506" class=3D"css-a4x74f"><span>506</span><=
+/td><td id=3D"LC506" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L507" class=3D"css-a4x74f"><span>507</span><=
+/td><td id=3D"LC507" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-fade</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide</span> {
+</code></td></tr><tr><td id=3D"L508" class=3D"css-a4x74f"><span>508</span><=
+/td><td id=3D"LC508" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L509" class=3D"css-a4x74f"><span>509</span><=
+/td><td id=3D"LC509" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transition-property</span>: opacity;
+</code></td></tr><tr><td id=3D"L510" class=3D"css-a4x74f"><span>510</span><=
+/td><td id=3D"LC510" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L511" class=3D"css-a4x74f"><span>511</span><=
+/td><td id=3D"LC511" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-fade</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide</span> <span class=3D"hljs-selector-class">.swiper-slide</span> {
+</code></td></tr><tr><td id=3D"L512" class=3D"css-a4x74f"><span>512</span><=
+/td><td id=3D"LC512" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L513" class=3D"css-a4x74f"><span>513</span><=
+/td><td id=3D"LC513" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L514" class=3D"css-a4x74f"><span>514</span><=
+/td><td id=3D"LC514" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-fade</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-active</span>,
+</code></td></tr><tr><td id=3D"L515" class=3D"css-a4x74f"><span>515</span><=
+/td><td id=3D"LC515" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-fade</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-active</span> <span class=3D"hljs-selector-class">.swiper-slide-active=
+</span> {
+</code></td></tr><tr><td id=3D"L516" class=3D"css-a4x74f"><span>516</span><=
+/td><td id=3D"LC516" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: auto;
+</code></td></tr><tr><td id=3D"L517" class=3D"css-a4x74f"><span>517</span><=
+/td><td id=3D"LC517" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L518" class=3D"css-a4x74f"><span>518</span><=
+/td><td id=3D"LC518" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> {
+</code></td></tr><tr><td id=3D"L519" class=3D"css-a4x74f"><span>519</span><=
+/td><td id=3D"LC519" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">overflow</span>: visible;
+</code></td></tr><tr><td id=3D"L520" class=3D"css-a4x74f"><span>520</span><=
+/td><td id=3D"LC520" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L521" class=3D"css-a4x74f"><span>521</span><=
+/td><td id=3D"LC521" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide</span> {
+</code></td></tr><tr><td id=3D"L522" class=3D"css-a4x74f"><span>522</span><=
+/td><td id=3D"LC522" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L523" class=3D"css-a4x74f"><span>523</span><=
+/td><td id=3D"LC523" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-webkit-backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L524" class=3D"css-a4x74f"><span>524</span><=
+/td><td id=3D"LC524" class=3D"css-1dcdqdg"><code>          <span class=3D"c=
+ode-attribute">backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L525" class=3D"css-a4x74f"><span>525</span><=
+/td><td id=3D"LC525" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">1</span>;
+</code></td></tr><tr><td id=3D"L526" class=3D"css-a4x74f"><span>526</span><=
+/td><td id=3D"LC526" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L527" class=3D"css-a4x74f"><span>527</span><=
+/td><td id=3D"LC527" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform-origin</span>: <span class=3D"code-number">0</span> <span =
+class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L528" class=3D"css-a4x74f"><span>528</span><=
+/td><td id=3D"LC528" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L529" class=3D"css-a4x74f"><span>529</span><=
+/td><td id=3D"LC529" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L530" class=3D"css-a4x74f"><span>530</span><=
+/td><td id=3D"LC530" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L531" class=3D"css-a4x74f"><span>531</span><=
+/td><td id=3D"LC531" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide</span> <span class=3D"hljs-selector-class">.swiper-slide</span> {
+</code></td></tr><tr><td id=3D"L532" class=3D"css-a4x74f"><span>532</span><=
+/td><td id=3D"LC532" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L533" class=3D"css-a4x74f"><span>533</span><=
+/td><td id=3D"LC533" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L534" class=3D"css-a4x74f"><span>534</span><=
+/td><td id=3D"LC534" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span><span class=3D"hljs-selector-class">.swiper-rt=
+l</span> <span class=3D"hljs-selector-class">.swiper-slide</span> {
+</code></td></tr><tr><td id=3D"L535" class=3D"css-a4x74f"><span>535</span><=
+/td><td id=3D"LC535" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform-origin</span>: <span class=3D"code-number">100%</span> <sp=
+an class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L536" class=3D"css-a4x74f"><span>536</span><=
+/td><td id=3D"LC536" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L537" class=3D"css-a4x74f"><span>537</span><=
+/td><td id=3D"LC537" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-active</span>,
+</code></td></tr><tr><td id=3D"L538" class=3D"css-a4x74f"><span>538</span><=
+/td><td id=3D"LC538" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-active</span> <span class=3D"hljs-selector-class">.swiper-slide-active=
+</span> {
+</code></td></tr><tr><td id=3D"L539" class=3D"css-a4x74f"><span>539</span><=
+/td><td id=3D"LC539" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: auto;
+</code></td></tr><tr><td id=3D"L540" class=3D"css-a4x74f"><span>540</span><=
+/td><td id=3D"LC540" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L541" class=3D"css-a4x74f"><span>541</span><=
+/td><td id=3D"LC541" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-active</span>,
+</code></td></tr><tr><td id=3D"L542" class=3D"css-a4x74f"><span>542</span><=
+/td><td id=3D"LC542" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-next</span>,
+</code></td></tr><tr><td id=3D"L543" class=3D"css-a4x74f"><span>543</span><=
+/td><td id=3D"LC543" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-prev</span>,
+</code></td></tr><tr><td id=3D"L544" class=3D"css-a4x74f"><span>544</span><=
+/td><td id=3D"LC544" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-next</span> + <span class=3D"hljs-selector-class">.swiper-slide</span>=
+ {
+</code></td></tr><tr><td id=3D"L545" class=3D"css-a4x74f"><span>545</span><=
+/td><td id=3D"LC545" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: auto;
+</code></td></tr><tr><td id=3D"L546" class=3D"css-a4x74f"><span>546</span><=
+/td><td id=3D"LC546" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">visibility</span>: visible;
+</code></td></tr><tr><td id=3D"L547" class=3D"css-a4x74f"><span>547</span><=
+/td><td id=3D"LC547" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L548" class=3D"css-a4x74f"><span>548</span><=
+/td><td id=3D"LC548" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-shadow-top</span>,
+</code></td></tr><tr><td id=3D"L549" class=3D"css-a4x74f"><span>549</span><=
+/td><td id=3D"LC549" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-shadow-bottom</span>,
+</code></td></tr><tr><td id=3D"L550" class=3D"css-a4x74f"><span>550</span><=
+/td><td id=3D"LC550" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-shadow-left</span>,
+</code></td></tr><tr><td id=3D"L551" class=3D"css-a4x74f"><span>551</span><=
+/td><td id=3D"LC551" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-shadow-right</span> {
+</code></td></tr><tr><td id=3D"L552" class=3D"css-a4x74f"><span>552</span><=
+/td><td id=3D"LC552" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L553" class=3D"css-a4x74f"><span>553</span><=
+/td><td id=3D"LC553" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-webkit-backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L554" class=3D"css-a4x74f"><span>554</span><=
+/td><td id=3D"LC554" class=3D"css-1dcdqdg"><code>          <span class=3D"c=
+ode-attribute">backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L555" class=3D"css-a4x74f"><span>555</span><=
+/td><td id=3D"LC555" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L556" class=3D"css-a4x74f"><span>556</span><=
+/td><td id=3D"LC556" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-c=
+ube-shadow</span> {
+</code></td></tr><tr><td id=3D"L557" class=3D"css-a4x74f"><span>557</span><=
+/td><td id=3D"LC557" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L558" class=3D"css-a4x74f"><span>558</span><=
+/td><td id=3D"LC558" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L559" class=3D"css-a4x74f"><span>559</span><=
+/td><td id=3D"LC559" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">bottom</span>: <span class=3D"code-number">0px</span>;
+</code></td></tr><tr><td id=3D"L560" class=3D"css-a4x74f"><span>560</span><=
+/td><td id=3D"LC560" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">width</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L561" class=3D"css-a4x74f"><span>561</span><=
+/td><td id=3D"LC561" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">height</span>: <span class=3D"code-number">100%</span>;
+</code></td></tr><tr><td id=3D"L562" class=3D"css-a4x74f"><span>562</span><=
+/td><td id=3D"LC562" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">opacity</span>: <span class=3D"code-number">0.6</span>;
+</code></td></tr><tr><td id=3D"L563" class=3D"css-a4x74f"><span>563</span><=
+/td><td id=3D"LC563" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L564" class=3D"css-a4x74f"><span>564</span><=
+/td><td id=3D"LC564" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L565" class=3D"css-a4x74f"><span>565</span><=
+/td><td id=3D"LC565" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cube</span> <span class=3D"hljs-selector-class">.swiper-c=
+ube-shadow</span><span class=3D"hljs-selector-pseudo">:before</span> {
+</code></td></tr><tr><td id=3D"L566" class=3D"css-a4x74f"><span>566</span><=
+/td><td id=3D"LC566" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">content</span>: <span class=3D"code-string">''</span>;
+</code></td></tr><tr><td id=3D"L567" class=3D"css-a4x74f"><span>567</span><=
+/td><td id=3D"LC567" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">background</span>: <span class=3D"code-number">#000</span>;
+</code></td></tr><tr><td id=3D"L568" class=3D"css-a4x74f"><span>568</span><=
+/td><td id=3D"LC568" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">position</span>: absolute;
+</code></td></tr><tr><td id=3D"L569" class=3D"css-a4x74f"><span>569</span><=
+/td><td id=3D"LC569" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">left</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L570" class=3D"css-a4x74f"><span>570</span><=
+/td><td id=3D"LC570" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">top</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L571" class=3D"css-a4x74f"><span>571</span><=
+/td><td id=3D"LC571" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">bottom</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L572" class=3D"css-a4x74f"><span>572</span><=
+/td><td id=3D"LC572" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">right</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L573" class=3D"css-a4x74f"><span>573</span><=
+/td><td id=3D"LC573" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">filter</span>: <span class=3D"code-built_in">blur</span>(50px);
+</code></td></tr><tr><td id=3D"L574" class=3D"css-a4x74f"><span>574</span><=
+/td><td id=3D"LC574" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L575" class=3D"css-a4x74f"><span>575</span><=
+/td><td id=3D"LC575" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> {
+</code></td></tr><tr><td id=3D"L576" class=3D"css-a4x74f"><span>576</span><=
+/td><td id=3D"LC576" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">overflow</span>: visible;
+</code></td></tr><tr><td id=3D"L577" class=3D"css-a4x74f"><span>577</span><=
+/td><td id=3D"LC577" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L578" class=3D"css-a4x74f"><span>578</span><=
+/td><td id=3D"LC578" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide</span> {
+</code></td></tr><tr><td id=3D"L579" class=3D"css-a4x74f"><span>579</span><=
+/td><td id=3D"LC579" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L580" class=3D"css-a4x74f"><span>580</span><=
+/td><td id=3D"LC580" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-webkit-backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L581" class=3D"css-a4x74f"><span>581</span><=
+/td><td id=3D"LC581" class=3D"css-1dcdqdg"><code>          <span class=3D"c=
+ode-attribute">backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L582" class=3D"css-a4x74f"><span>582</span><=
+/td><td id=3D"LC582" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">1</span>;
+</code></td></tr><tr><td id=3D"L583" class=3D"css-a4x74f"><span>583</span><=
+/td><td id=3D"LC583" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L584" class=3D"css-a4x74f"><span>584</span><=
+/td><td id=3D"LC584" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide</span> <span class=3D"hljs-selector-class">.swiper-slide</span> {
+</code></td></tr><tr><td id=3D"L585" class=3D"css-a4x74f"><span>585</span><=
+/td><td id=3D"LC585" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: none;
+</code></td></tr><tr><td id=3D"L586" class=3D"css-a4x74f"><span>586</span><=
+/td><td id=3D"LC586" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L587" class=3D"css-a4x74f"><span>587</span><=
+/td><td id=3D"LC587" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-active</span>,
+</code></td></tr><tr><td id=3D"L588" class=3D"css-a4x74f"><span>588</span><=
+/td><td id=3D"LC588" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-active</span> <span class=3D"hljs-selector-class">.swiper-slide-active=
+</span> {
+</code></td></tr><tr><td id=3D"L589" class=3D"css-a4x74f"><span>589</span><=
+/td><td id=3D"LC589" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">pointer-events</span>: auto;
+</code></td></tr><tr><td id=3D"L590" class=3D"css-a4x74f"><span>590</span><=
+/td><td id=3D"LC590" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L591" class=3D"css-a4x74f"><span>591</span><=
+/td><td id=3D"LC591" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-shadow-top</span>,
+</code></td></tr><tr><td id=3D"L592" class=3D"css-a4x74f"><span>592</span><=
+/td><td id=3D"LC592" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-shadow-bottom</span>,
+</code></td></tr><tr><td id=3D"L593" class=3D"css-a4x74f"><span>593</span><=
+/td><td id=3D"LC593" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-shadow-left</span>,
+</code></td></tr><tr><td id=3D"L594" class=3D"css-a4x74f"><span>594</span><=
+/td><td id=3D"LC594" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-flip</span> <span class=3D"hljs-selector-class">.swiper-s=
+lide-shadow-right</span> {
+</code></td></tr><tr><td id=3D"L595" class=3D"css-a4x74f"><span>595</span><=
+/td><td id=3D"LC595" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">z-index</span>: <span class=3D"code-number">0</span>;
+</code></td></tr><tr><td id=3D"L596" class=3D"css-a4x74f"><span>596</span><=
+/td><td id=3D"LC596" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-webkit-backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L597" class=3D"css-a4x74f"><span>597</span><=
+/td><td id=3D"LC597" class=3D"css-1dcdqdg"><code>          <span class=3D"c=
+ode-attribute">backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L598" class=3D"css-a4x74f"><span>598</span><=
+/td><td id=3D"LC598" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L599" class=3D"css-a4x74f"><span>599</span><=
+/td><td id=3D"LC599" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-creative</span> <span class=3D"hljs-selector-class">.swip=
+er-slide</span> {
+</code></td></tr><tr><td id=3D"L600" class=3D"css-a4x74f"><span>600</span><=
+/td><td id=3D"LC600" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-webkit-backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L601" class=3D"css-a4x74f"><span>601</span><=
+/td><td id=3D"LC601" class=3D"css-1dcdqdg"><code>          <span class=3D"c=
+ode-attribute">backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L602" class=3D"css-a4x74f"><span>602</span><=
+/td><td id=3D"LC602" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">overflow</span>: hidden;
+</code></td></tr><tr><td id=3D"L603" class=3D"css-a4x74f"><span>603</span><=
+/td><td id=3D"LC603" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transition-property</span>: transform, opacity, height;
+</code></td></tr><tr><td id=3D"L604" class=3D"css-a4x74f"><span>604</span><=
+/td><td id=3D"LC604" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L605" class=3D"css-a4x74f"><span>605</span><=
+/td><td id=3D"LC605" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cards</span> {
+</code></td></tr><tr><td id=3D"L606" class=3D"css-a4x74f"><span>606</span><=
+/td><td id=3D"LC606" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">overflow</span>: visible;
+</code></td></tr><tr><td id=3D"L607" class=3D"css-a4x74f"><span>607</span><=
+/td><td id=3D"LC607" class=3D"css-1dcdqdg"><code>}
+</code></td></tr><tr><td id=3D"L608" class=3D"css-a4x74f"><span>608</span><=
+/td><td id=3D"LC608" class=3D"css-1dcdqdg"><code><span class=3D"hljs-select=
+or-class">.swiper-cards</span> <span class=3D"hljs-selector-class">.swiper-=
+slide</span> {
+</code></td></tr><tr><td id=3D"L609" class=3D"css-a4x74f"><span>609</span><=
+/td><td id=3D"LC609" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">transform-origin</span>: center bottom;
+</code></td></tr><tr><td id=3D"L610" class=3D"css-a4x74f"><span>610</span><=
+/td><td id=3D"LC610" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">-webkit-backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L611" class=3D"css-a4x74f"><span>611</span><=
+/td><td id=3D"LC611" class=3D"css-1dcdqdg"><code>          <span class=3D"c=
+ode-attribute">backface-visibility</span>: hidden;
+</code></td></tr><tr><td id=3D"L612" class=3D"css-a4x74f"><span>612</span><=
+/td><td id=3D"LC612" class=3D"css-1dcdqdg"><code>  <span class=3D"code-attr=
+ibute">overflow</span>: hidden;
+</code></td></tr><tr><td id=3D"L613" class=3D"css-a4x74f"><span>613</span><=
+/td><td id=3D"LC613" class=3D"css-1dcdqdg"><code>}
+</code></td></tr></tbody></table></div></div></div></div><footer class=3D"c=
+ss-1teho9j"><div class=3D"css-1ui8put"><p><span>Build: <!-- -->a7ebffa</spa=
+n></p><p><span>=C2=A9 <!-- -->2022<!-- --> UNPKG</span></p><p class=3D"css-=
+la3nd4"><a href=3D"https://twitter.com/unpkg" class=3D"css-bogekj"><svg str=
+oke=3D"currentColor" fill=3D"currentColor" stroke-width=3D"0" viewBox=3D"0 =
+0 512 512" class=3D"css-i6dzq1" height=3D"1em" width=3D"1em" xmlns=3D"http:=
+//www.w3.org/2000/svg"><path d=3D"M459.37 151.716c.325 4.548.325 9.097.325 =
+13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.=
+137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.27=
+4-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.=
+818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-=
+102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781=
+-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.=
+3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.=
+782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548=
+ 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-=
+2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z=
+"></path></svg></a><a href=3D"https://github.com/mjackson/unpkg" class=3D"c=
+ss-3czw03"><svg stroke=3D"currentColor" fill=3D"currentColor" stroke-width=
+=3D"0" viewBox=3D"0 0 496 512" class=3D"css-i6dzq1" height=3D"1em" width=3D=
+"1em" xmlns=3D"http://www.w3.org/2000/svg"><path d=3D"M165.9 397.4c0 2-2.3 =
+3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6z=
+m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7=
+-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 =
+4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9=
+ 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0=
+ 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 =
+2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-=
+112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9=
+ 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-3=
+3.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58=
+.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4=
+.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM=
+97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-=
+1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3=
+-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3=
+ 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6=
+ 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.=
+3-5.6-2z"></path></svg></a></p></div></footer></div></body></html>
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7f90e8a6-2366-4efe-a571-ea9b5c7fba4b@mhtml.blink
+
+@charset "utf-8";
+
+html { box-sizing: border-box; }
+
+*, ::before, ::after { box-sizing: inherit; }
+
+html, body, #root { height: 100%; margin: 0px; }
+
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, =
+Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", san=
+s-serif; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; back=
+ground: white; color: black; }
+
+code { font-family: Menlo, Monaco, "Lucida Console", "Liberation Mono", "De=
+jaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace; }
+
+th, td { padding: 0px; }
+
+select { font-size: inherit; }
+
+#root { display: flex; flex-direction: column; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e11a67e2-90a6-4dd6-9df6-7736dff2542d@mhtml.blink
+
+@charset "utf-8";
+
+.code-listing { background: rgb(251, 253, 255); color: rgb(56, 58, 66); }
+
+.code-comment, .code-quote { color: rgb(160, 161, 167); font-style: italic;=
+ }
+
+.code-doctag, .code-keyword, .code-link, .code-formula { color: rgb(166, 38=
+, 164); }
+
+.code-section, .code-name, .code-selector-tag, .code-deletion, .code-subst =
+{ color: rgb(228, 86, 73); }
+
+.code-literal { color: rgb(1, 132, 187); }
+
+.code-string, .code-regexp, .code-addition, .code-attribute, .code-meta-str=
+ing { color: rgb(80, 161, 79); }
+
+.code-built_in, .code-class .code-title { color: rgb(193, 132, 1); }
+
+.code-attr, .code-variable, .code-template-variable, .code-type, .code-sele=
+ctor-class, .code-selector-attr, .code-selector-pseudo, .code-number { colo=
+r: rgb(152, 104, 1); }
+
+.code-symbol, .code-bullet, .code-meta, .code-selector-id, .code-title { co=
+lor: rgb(64, 120, 242); }
+
+.code-emphasis { font-style: italic; }
+
+.code-strong { font-weight: bold; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-be81286d-eb08-400b-a2ef-1ea146fb6878@mhtml.blink
+
+@charset "utf-8";
+
+.css-1c3h18e { flex: 1 0 auto; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c231304f-a5b3-45e3-a3a8-7d5703e930dc@mhtml.blink
+
+@charset "utf-8";
+
+.css-1cfuj1t { max-width: 940px; padding: 0px 20px; margin: 0px auto; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1bfe2ad3-d99f-4238-8b6e-bf070e5ef39d@mhtml.blink
+
+@charset "utf-8";
+
+.css-i51og3 { margin-top: 2rem; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c722cd9f-bd4b-41e5-a6a6-ea7f99426149@mhtml.blink
+
+@charset "utf-8";
+
+.css-1y7u1xh { text-align: center; font-size: 3rem; letter-spacing: 0.05em;=
+ }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a8a646ec-71c0-41d9-b19e-6a2a5aa60f77@mhtml.blink
+
+@charset "utf-8";
+
+.css-1ydg16i { color: rgb(0, 0, 0); text-decoration: none; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3f6be20b-52ac-4eeb-8b59-fb5db534cb8c@mhtml.blink
+
+@charset "utf-8";
+
+.css-93o42g { display: flex; flex-direction: row; -webkit-box-align: center=
+; align-items: center; }
+
+@media (max-width: 700px) {
+  .css-93o42g { flex-direction: column-reverse; align-items: flex-start; }
+}
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-74c49b76-c39e-4391-82ee-cd8c6462755e@mhtml.blink
+
+@charset "utf-8";
+
+.css-1dlpvgi { font-size: 1.5rem; font-weight: normal; flex: 1 1 0%; word-b=
+reak: break-all; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-aba5ca98-45ae-4340-9909-4c155ce0b9ae@mhtml.blink
+
+@charset "utf-8";
+
+.css-xt128v { color: rgb(0, 118, 255); text-decoration: none; }
+
+.css-xt128v:hover { text-decoration: underline; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-026ee460-33db-4990-abbd-3b093d6a6ff1@mhtml.blink
+
+@charset "utf-8";
+
+.css-lllnmq { padding-left: 5px; padding-right: 5px; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-9731943b-205a-49f0-ae35-26c4e3a1ef79@mhtml.blink
+
+@charset "utf-8";
+
+.css-1nr3dab { margin-left: 20px; }
+
+@media (max-width: 700px) {
+  .css-1nr3dab { margin-left: 0px; margin-bottom: 0px; }
+}
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-103c3591-0d2c-46ba-85a4-ae4cfd94a3a0@mhtml.blink
+
+@charset "utf-8";
+
+.css-un3bt6 { appearance: none; cursor: pointer; padding: 4px 24px 4px 8px;=
+ font-weight: 600; font-size: 0.9em; color: rgb(36, 41, 46); border: 1px so=
+lid rgba(27, 31, 35, 0.2); border-radius: 3px; background-color: rgb(239, 2=
+43, 246); background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhE=
+UgAAABAAAAAKCAYAAAC9vt6cAAAAAXNSR0IArs4c6QAAARFJREFUKBVjZAACNS39RhBNKrh17WI=
+9o4quoT3Dn78HSNUMUs/CzOTI/O7Vi4dCYpJ3/jP+92BkYGAlyiBGhm8MjIxJt65e3MQM0vDu9Y=
+vLYmISILYZELOBxHABRkaGr0yMzF23r12YDFIDNgDEePv65SEhEXENBkYGFSAXuyGMjF8Z/jOsv=
+X3tYiFIDwgwQSgIaaijnvj/P8M5IO8HsjiY/f//D4b//88A1SQhywG9jQr09PS4v/1mPAeUUPzP=
+8B8cJowMjL+Bqu6xMQmaXL164AuyDgwDQJLa2qYSP//9vARkCoMVMzK8YeVkNbh+9uxzMB+JwGo=
+ASF5Vx0jz/98/18BqmZi171w9D2EjaaYKEwAEK00XQLdJuwAAAABJRU5ErkJggg=3D=3D"); ba=
+ckground-position: right 8px center; background-repeat: no-repeat; backgrou=
+nd-size: auto 25%; }
+
+.css-un3bt6:hover { background-color: rgb(230, 235, 241); border-color: rgb=
+a(27, 31, 35, 0.35); }
+
+.css-un3bt6:active { background-color: rgb(233, 236, 239); border-color: rg=
+ba(27, 31, 35, 0.35); box-shadow: rgba(27, 31, 35, 0.15) 0px 0.15em 0.3em i=
+nset; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-011b0b9e-886b-481d-a005-5b01690953b4@mhtml.blink
+
+@charset "utf-8";
+
+.css-107j3ms { max-width: 940px; padding: 0px 20px; margin: 0px auto; }
+
+@media (max-width: 700px) {
+  .css-107j3ms { padding: 0px; margin: 0px; }
+}
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-379e967c-2760-40e7-8b2b-4afdf05628ef@mhtml.blink
+
+@charset "utf-8";
+
+.css-q3frg4 { border: 1px solid rgb(223, 226, 229); border-radius: 3px; }
+
+@media (max-width: 700px) {
+  .css-q3frg4 { border-right-width: 0px; border-left-width: 0px; }
+}
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f366e113-0cdf-4acb-ad0a-06575207219f@mhtml.blink
+
+@charset "utf-8";
+
+.css-10o5omr { padding: 10px; background: rgb(246, 248, 250); color: rgb(66=
+, 66, 66); border: 1px solid rgb(209, 213, 218); border-top-left-radius: 3p=
+x; border-top-right-radius: 3px; margin: -1px -1px 0px; display: flex; flex=
+-direction: row; -webkit-box-align: center; align-items: center; -webkit-bo=
+x-pack: justify; justify-content: space-between; }
+
+@media (max-width: 700px) {
+  .css-10o5omr { padding-right: 20px; padding-left: 20px; }
+}
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-11609d65-4c97-40b2-a836-f454d8640dd4@mhtml.blink
+
+@charset "utf-8";
+
+.css-18x593j { display: inline-block; margin-left: 8px; padding: 2px 8px; t=
+ext-decoration: none; font-weight: 600; font-size: 0.9rem; color: rgb(36, 4=
+1, 46); background-color: rgb(239, 243, 246); border: 1px solid rgba(27, 31=
+, 35, 0.2); border-radius: 3px; }
+
+.css-18x593j:hover { background-color: rgb(230, 235, 241); border-color: rg=
+ba(27, 31, 35, 0.35); }
+
+.css-18x593j:active { background-color: rgb(233, 236, 239); border-color: r=
+gba(27, 31, 35, 0.35); box-shadow: rgba(27, 31, 35, 0.15) 0px 0.15em 0.3em =
+inset; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-11dd8e0f-1584-4d66-98bb-62de433678b1@mhtml.blink
+
+@charset "utf-8";
+
+.css-1i31ihw { overflow: auto hidden; padding-top: 5px; padding-bottom: 5px=
+; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-db7d9096-9446-4ac2-ad78-c480710ac110@mhtml.blink
+
+@charset "utf-8";
+
+.css-173nir8 { border: none; border-collapse: collapse; border-spacing: 0px=
+; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-af9574d5-04fe-4bd5-9d1b-470bf61aba7e@mhtml.blink
+
+@charset "utf-8";
+
+.css-a4x74f { padding-left: 10px; padding-right: 10px; color: rgba(27, 31, =
+35, 0.3); text-align: right; vertical-align: top; width: 1%; min-width: 50p=
+x; user-select: none; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-db11c9df-4f79-437b-b47d-719210a16de4@mhtml.blink
+
+@charset "utf-8";
+
+.css-1dcdqdg { padding-left: 10px; padding-right: 10px; color: rgb(36, 41, =
+46); white-space: pre; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-183c2dad-0aee-421c-a272-27425f82940c@mhtml.blink
+
+@charset "utf-8";
+
+.css-1teho9j { margin-top: 5rem; background: black; color: rgb(170, 170, 17=
+0); }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d92c0cef-46ce-49e5-a26e-62f4a53362e2@mhtml.blink
+
+@charset "utf-8";
+
+.css-1ui8put { max-width: 940px; padding: 10px 20px; margin: 0px auto; disp=
+lay: flex; flex-direction: row; -webkit-box-align: center; align-items: cen=
+ter; -webkit-box-pack: justify; justify-content: space-between; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5a925922-60af-478f-8a43-5044bdf434a2@mhtml.blink
+
+@charset "utf-8";
+
+.css-la3nd4 { font-size: 1.5rem; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-fec29a2e-4ca4-40dd-9ac4-f6b156afb9cd@mhtml.blink
+
+@charset "utf-8";
+
+.css-bogekj { color: rgb(170, 170, 170); display: inline-block; }
+
+.css-bogekj:hover { color: white; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6b1fa2f5-7d6c-44ee-8f4f-83704b1d630c@mhtml.blink
+
+@charset "utf-8";
+
+.css-i6dzq1 { vertical-align: text-bottom; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-72ddedfd-beb7-4c8e-b200-b7edd6381f2f@mhtml.blink
+
+@charset "utf-8";
+
+.css-3czw03 { color: rgb(170, 170, 170); display: inline-block; margin-left=
+: 1rem; }
+
+.css-3czw03:hover { color: white; }
+------MultipartBoundary--eR3WaFMu8q2EUbXmSNhIUqEKnrgvosHBp8ftvjL4U9------
